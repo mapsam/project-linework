@@ -5,8 +5,8 @@ body, html, *, h1, h2, h3, p, ol, ul, ol li, ul li, a, li a, ul li a {
 
 @font-face {
 	font-family: 'Ostrich Sans';
-	src: url('ostrich-sans-regular.eot');
-	src: local('☺'), url('ostrich-sans-regular.woff') format('woff'), url('ostrich-sans-regular.ttf') format('truetype'), url('ostrich-sans-regular.svg') format('svg');
+	src: url('ostrich-regular.eot');
+	src: local('☺'), url('webfonts/ostrich-regular.woff') format('woff'), url('webfonts/ostrich-regular.ttf') format('truetype'), url('webfonts/ostrich-regular.svg') format('svg');
 	font-weight: 400;
 	font-style: normal;
 }
@@ -98,16 +98,10 @@ transition:.2s;
 	width:100%;
 	background-color:#E2EDDE;
 }
-
-#wrapper {
-	display:block;
-	margin:30px auto 0;
-	width:700px;
-}
-
 section {
 	display:block;
-	margin:20px 0;
+	width:100%;
+	margin:0;
 	height:275px;
 	background-color:rgba(0,0,0,0.2);
 	overflow:hidden;
