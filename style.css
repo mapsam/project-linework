@@ -76,10 +76,17 @@ transition:.2s;
 	width:450px;
 	text-align:center;
 }
+#intro h1 {
+	font-family: 'Amatic SC', cursive;
+	font-size:4em;
+	font-weight:100;
+	color:#888;
+	margin-bottom:20px;
+}
 #intro p {
 	font-family: 'Roboto', serif;
 	font-size:1.1em;
-	font-color:#444;
+	color:#444;
 	font-weight:400;
 	line-height: 1.3em;
 	margin-bottom:10px;
@@ -98,30 +105,48 @@ transition:.2s;
 	width:100%;
 	background-color:#E2EDDE;
 }
+#wrapper {
+	display:block;
+	width:700px;
+	margin:auto;
+}
 section {
 	display:block;
 	width:100%;
 	margin:0;
-	height:275px;
+	height:300px;
 	background-color:rgba(0,0,0,0.2);
 	overflow:hidden;
+	margin-bottom:20px;
+	-webkit-transition:.3s;
+	-moz-transition:.3s;
+	-o-transition:.3s;
+	transition:.3s;
+	text-align:left;
 }
-#pl-elmer-casual {background:url(img/pl-elmer-casual.png) center center; background-size:cover;}
-#pl-geo-metro {background:url(img/pl-geo-metro.png) center center; background-size:cover;}
-#pl-liana {background:url(img/pl-liana.png) center center; background-size:cover;}
-#pl-times-approximate {background:url(img/pl-times-approximate.png) center center; background-size:cover;}
-#pl-twenty-seven {background:url(img/pl-twenty-seven.png) center center; background-size:cover;}
-#pl-charmingly-innacurate {background:url(img/pl-charmingly-innacurate.png) center center; background-size:cover;}
+section h1 {
+	color:#888;
+	margin-bottom:20px;
+	background-color:rgba(0,0,0,0.4);
+	width:100%;
+	padding-left:15px;
+	color:#fff;
+}
+
+/*
+
+Unique styles in style-bricks.css
+
+*/
 
 .download {
 	position:relative;
 	top:0;
 	left:0;
-	width:50px;
-	height:50px;
-	background-color:#A0BEC2;
-	opacity:0.5;
-	border-bottom-right-radius:30px;
+	width:20px;
+	height:100%;
+	background-color:#000;
+	opacity:0.6;
 	-webkit-transition:.4s;
 	-moz-transition:.4s;
 	-o-transition:.4s;
@@ -129,10 +154,8 @@ section {
 	overflow:hidden;
 }
 .download:hover {
-	opacity:1.0;
-	width:100px;
-	height:100%;
-	border-bottom-right-radius:0px;
+	opacity:0.8;
+	width:200px;
 }
 .download img {
 	position:relative;

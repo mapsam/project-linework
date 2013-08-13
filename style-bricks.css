@@ -1,0 +1,79 @@
+@import url(http://fonts.googleapis.com/css?family=Amatic+SC);
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+
+/* ELMER CASUAL */
+#pl-elmer-casual {
+	background:url(img/pl-elmer-casual.png) no-repeat;
+	background-position:0px 0px;
+}
+#pl-elmer-casual:hover {background-position:-700px 0px;}
+#pl-elmer-casual h1 {
+	font-family: 'Amatic SC', cursive;
+	font-size:3em;
+	font-weight:100;
+}
+
+
+/* GEO METRO */
+#pl-geo-metro {
+	background:url(img/pl-geo-metro.png) no-repeat;
+	background-position:0px 0px;
+}
+#pl-geo-metro:hover {background-position:-700px 0px;}
+#pl-geo-metro h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size:3em;
+	font-weight:100;
+}
+
+
+/* LIANA */
+#pl-liana {
+	background:url(img/pl-liana.png) no-repeat;
+	background-position:0px 0px;
+}
+#pl-liana:hover {background-position:-700px 0px;}
+#pl-liana h1 {
+	font-family:;
+	font-size:;
+	font-weight:;
+}
+
+
+/* TIMES APPROXIMATE */
+#pl-times-approximate {
+	background:url(img/pl-times-approximate.png) no-repeat;
+	background-position:0px 0px;
+}
+#pl-times-approximate:hover {background-position:-700px 0px;}
+#pl-times-approximate h1 {
+	font-family:;
+	font-size:;
+	font-weight:;
+}
+
+
+/* TWENTY SEVEN */
+#pl-twenty-seven {
+	background:url(img/pl-twenty-seven.png) no-repeat;
+	background-position:0px 0px;
+}
+#pl-twenty-seven:hover {background-position:-700px 0px;}
+#pl-twenty-seven h1 {
+	font-family:;
+	font-size:;
+	font-weight:;
+}
+
+
+/* CHARMINGLY INACCURATE */
+#pl-charmingly-inaccurate {
+	background:url(img/pl-charmingly-inaccurate.png) no-repeat;
+	background-position:0px 0px;
+}
+#pl-charmingly-inaccurate:hover {background-position:-700px 0px;}
+#pl-charmingly-inaccurate h1 {
+	font-family:;
+	font-size:;
+	font-weight:;
+}
