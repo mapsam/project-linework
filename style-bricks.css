@@ -1,5 +1,9 @@
-@import url(http://fonts.googleapis.com/css?family=Amatic+SC);
-@import url(http://fonts.googleapis.com/css?family=Montserrat);
+@import url(http://fonts.googleapis.com/css?family=Amatic+SC); /* Elmer Casual */
+@import url(http://fonts.googleapis.com/css?family=Montserrat); /* Geo Metro */
+@import url(http://fonts.googleapis.com/css?family=Quintessential); /* Liana */
+@import url(http://fonts.googleapis.com/css?family=Jura:600); /* Twenty Seven */
+@import url(http://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope); /* Charmingly Inaccurate */
+
 
 /* ELMER CASUAL */
 #pl-elmer-casual {
@@ -9,8 +13,6 @@
 #pl-elmer-casual:hover {background-position:-700px 0px;}
 #pl-elmer-casual h1 {
 	font-family: 'Amatic SC', cursive;
-	font-size:3em;
-	font-weight:100;
 }
 
 
@@ -22,8 +24,6 @@
 #pl-geo-metro:hover {background-position:-700px 0px;}
 #pl-geo-metro h1 {
 	font-family: 'Montserrat', sans-serif;
-	font-size:3em;
-	font-weight:100;
 }
 
 
@@ -34,9 +34,7 @@
 }
 #pl-liana:hover {background-position:-700px 0px;}
 #pl-liana h1 {
-	font-family:;
-	font-size:;
-	font-weight:;
+	font-family: 'Quintessential', cursive;
 }
 
 
@@ -47,9 +45,8 @@
 }
 #pl-times-approximate:hover {background-position:-700px 0px;}
 #pl-times-approximate h1 {
-	font-family:;
-	font-size:;
-	font-weight:;
+	font-family:Times;
+	font-weight:100;
 }
 
 
@@ -60,9 +57,7 @@
 }
 #pl-twenty-seven:hover {background-position:-700px 0px;}
 #pl-twenty-seven h1 {
-	font-family:;
-	font-size:;
-	font-weight:;
+	font-family: 'Jura', sans-serif;
 }
 
 
@@ -73,7 +68,5 @@
 }
 #pl-charmingly-inaccurate:hover {background-position:-700px 0px;}
 #pl-charmingly-inaccurate h1 {
-	font-family:;
-	font-size:;
-	font-weight:;
+	font-family: 'Annie Use Your Telescope', cursive;
 }

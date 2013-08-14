@@ -1,21 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,700);
+
 body, html, *, h1, h2, h3, p, ol, ul, ol li, ul li, a, li a, ul li a {
 	margin:0;
 	padding:0;
 }
 
-@font-face {
-	font-family: 'Ostrich Sans';
-	src: url('ostrich-regular.eot');
-	src: local('☺'), url('webfonts/ostrich-regular.woff') format('woff'), url('webfonts/ostrich-regular.ttf') format('truetype'), url('webfonts/ostrich-regular.svg') format('svg');
-	font-weight: 400;
-	font-style: normal;
-}
-@font-face {
-	font-family: 'Ostrich Sans';
-	src: url('ostrich-bold.eot');
-	src: local('☺'), url('webfonts/ostrich-bold.woff') format('woff'), url('webfonts/ostrich-bold.ttf') format('truetype'), url('webfonts/ostrich-bold.svg') format('svg');
-	font-weight: 700;
-	font-style: normal;
+body {
+	background-color:#E2EDDE;
 }
 
 /*
@@ -26,7 +17,6 @@ body, html, *, h1, h2, h3, p, ol, ul, ol li, ul li, a, li a, ul li a {
 transition:.2s;
 
 */
-
 #header {
 	position:fixed;
 	z-index:1;
@@ -36,10 +26,12 @@ transition:.2s;
 	background-color:#E2EDDE;
 	text-align:center;
 	border-bottom:solid #c0c0c0 1px;
+
 }
 #logo {
-	display:inline-block;
-	margin:10px auto 0 auto;
+	position:absolute;
+	right:50%;
+	margin:10px -36px;
 	width:60px;
 	height:60px;
 	border-radius:36px;
@@ -55,20 +47,46 @@ transition:.2s;
 	background-color:#494234;
 }
 #logo p {
-	font-family: 'Ostrich Sans';
-	font-size:3.3em;
-	font-weight:700;
+	font-family:'Amatic SC', cursive;
+	font-size:4em;
+	font-weight:100;
 	color:#E2EDDE;
-	letter-spacing:-6px;
-	margin:8px 0 0 0px;
+	letter-spacing:-1px;
+	margin:-14px 0 0 0px;
 }
 #intro {
 	display:block;
 	margin:auto;
 	padding:80px 0 30px 0;
 	width:100%;
-	background-color:#E2EDDE;
 	border-bottom:dashed #c0c0c0 1px;
+}
+nav {
+	float:right;
+	margin:16px 20px 0 0;
+}
+nav ul {
+	list-style-type: none;
+}
+nav ul li {
+	display:inline;
+	margin-left:15px;
+}
+nav ul li a {
+	text-decoration:none;
+	font-family: 'Roboto', serif;
+	font-weight:400;
+	font-size:0.8em;
+	text-transform:uppercase;
+	color:#494234;
+	opacity:0.7;
+	-webkit-transition:.2s;
+	-moz-transition:.2s;
+	-o-transition:.2s;
+	transition:.2s;
+}
+nav ul li a:hover {
+	opacity:1.0;
 }
 #introContain {
 	display:block;
@@ -80,7 +98,7 @@ transition:.2s;
 	font-family: 'Amatic SC', cursive;
 	font-size:4em;
 	font-weight:100;
-	color:#888;
+	color:#494234;
 	margin-bottom:20px;
 }
 #intro p {
@@ -103,7 +121,6 @@ transition:.2s;
 	margin:auto;
 	padding:20px 0;
 	width:100%;
-	background-color:#E2EDDE;
 }
 #wrapper {
 	display:block;
@@ -129,8 +146,10 @@ section h1 {
 	margin-bottom:20px;
 	background-color:rgba(0,0,0,0.4);
 	width:100%;
-	padding-left:15px;
+	padding:5px 0 5px 15px;
 	color:#fff;
+	font-weight:100;
+	font-size:2.5em;
 }
 
 /*
