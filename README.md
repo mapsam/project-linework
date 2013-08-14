@@ -4,13 +4,13 @@ Working website for Project Linework. Find the current files at [somethingaboutm
 
 Mr. Huffman has written up a post about his inspiration and vision for Project Linework. [Read](http://somethingaboutmaps.wordpress.com/2012/07/19/linework-like-typefaces/) about it.
 
-#TODO
+##TODO
 
 * ~~Design~~ [View mockup](http://mapsam.com/project-linework)
-* Data conversions (~~shp~~ > ~~geojson~~ > topojson AND ~~ai~~) - Topojson still needs some work since conversions didn't work properly
+* Data ( ~~shp~~ | ~~geojson~~ | **topojson** | ~~ai~~ ) - Topojson still needs some work since conversions didn't work properly. [Issue #1](https://github.com/svmatthews/project-linework/issues/1)
 * Test
 * Convert to Jekyll on Github pages
-* Share beatiful linework with the world
+* Share
 
 Style files all include:
 
@@ -26,4 +26,4 @@ Extras:
 * Extra land types (i.e. streams, lakes, waterbodies)
 * Secondary Admin types (i.e. lines instead of polygons)
 
-Probably going to be under the MIT license but that depends on Daniel Huffman
+Probably going to be under the MIT license but that depends on [Daniel Huffman](https://twitter.com/pinakographos)
