@@ -2,8 +2,8 @@
 
 #TODO
 
-* Design
-* Data conversions (shp > geojson > topojson AND ai)
+* ~~Design~~ [View mockup](http://mapsam.com/project-linework)
+* Data conversions (~~shp~~ > ~~geojson~~ > topojson AND ~~ai~~) - Topojson still needs some work since conversions didn't work properly
 * Test
 * Convert to Jekyll on Github pages
 * Share beatiful linework with the world
