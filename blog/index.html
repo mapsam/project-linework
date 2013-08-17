@@ -4,5 +4,10 @@ title: Updates
 permalink: /
 ---
 
-<p>this is a blog post</p>
-	
+{% for post in site.posts %}
+<div class="post">
+	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+	<h3>{{ post.date | date_to_string }}</h3>
+	<p>{{ post.content | truncatewords:200 }}</p>
+</div>
+{% endfor %}
