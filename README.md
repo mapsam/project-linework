@@ -8,7 +8,7 @@ Mr. Huffman has written up a post about his inspiration and vision for Project L
 
 ##TODO
 
-* ~~Design~~ [View mockup](http://mapsam.com/project-linework)
+* ~~Design~~ [View mockup](http://svmatthews.github.io/project-linework/)
 * Build download & info UI for homepage
 * Extent UI for each file's data extent on the globe (visual or written?)
 * Data ( ~~shp~~ | ~~geojson~~ | **topojson** | ~~ai~~ ) - Topojson still needs some work since conversions didn't work properly. [Issue #1](https://github.com/svmatthews/project-linework/issues/1)
