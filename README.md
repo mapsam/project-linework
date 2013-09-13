@@ -23,8 +23,8 @@ Mr. Huffman has written up a post about his inspiration and vision for Project L
 * Extent UI for each file's data extent on the globe (visual or written?)
 * Data ( ~~shp~~ | ~~geojson~~ | **topojson** | ~~ai~~ ) - Topojson still needs some work since conversions didn't work properly. [Issue #1](https://github.com/svmatthews/project-linework/issues/1)
 * Test
-* ~~Convert to Jekyll~~ on Github pages ( need to create `gh-pages` branch or set up new repo for project-linework.github.io )
-* Update _config.yml to reflect GHs instead of local server `baseurl: null`
+* ~~Convert to Jekyll on Github pages ( need to create `gh-pages` branch or set up new repo for project-linework.github.io )~~
+* ~~Update _config.yml to reflect GHs instead of local server `baseurl: null`~~
 * Share
 
 
