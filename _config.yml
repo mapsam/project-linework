@@ -7,8 +7,8 @@ description: Handcrafted Vector Linework for Cartography
 # Your name, as you want it to appear underneath each post and in the footer
 author: Sam Matthews
 
-baseurl: http://svmatthews.github.io/project-linework/
-url: http://svmatthews.github.io/project-linework/
+baseurl: 
+url: http://www.projectlinework.org
 
 #### Under the Hood Stuff #####
 
