@@ -10,7 +10,6 @@
 	background:url(../img/pl-elmer-casual.png) no-repeat;
 	background-position:0px 0px;
 }
-#pl-elmer-casual:hover {background-position:-700px 0px;}
 #pl-elmer-casual h1 {
 	font-family: 'Amatic SC', cursive;
 }
@@ -21,7 +20,6 @@
 	background:url(../img/pl-geo-metro.png) no-repeat;
 	background-position:0px 0px;
 }
-#pl-geo-metro:hover {background-position:-700px 0px;}
 #pl-geo-metro h1 {
 	font-family: 'Montserrat', sans-serif;
 }
@@ -32,7 +30,6 @@
 	background:url(../img/pl-liana.png) no-repeat;
 	background-position:0px 0px;
 }
-#pl-liana:hover {background-position:-700px 0px;}
 #pl-liana h1 {
 	font-family: 'Quintessential', cursive;
 }
@@ -43,7 +40,6 @@
 	background:url(../img/pl-times-approximate.png) no-repeat;
 	background-position:0px 0px;
 }
-#pl-times-approximate:hover {background-position:-700px 0px;}
 #pl-times-approximate h1 {
 	font-family:Times;
 	font-weight:100;
@@ -55,7 +51,6 @@
 	background:url(../img/pl-twenty-seven.png) no-repeat;
 	background-position:0px 0px;
 }
-#pl-twenty-seven:hover {background-position:-700px 0px;}
 #pl-twenty-seven h1 {
 	font-family: 'Jura', sans-serif;
 }
@@ -66,7 +61,6 @@
 	background:url(../img/pl-charmingly-inaccurate.png) no-repeat;
 	background-position:0px 0px;
 }
-#pl-charmingly-inaccurate:hover {background-position:-700px 0px;}
 #pl-charmingly-inaccurate h1 {
 	font-family: 'Annie Use Your Telescope', cursive;
 }
