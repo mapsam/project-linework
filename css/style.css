@@ -1,3 +1,12 @@
+/*
+Credits {
+	Project Linework: Daniel Huffman;
+	Website: Situated Laboratories url(situatedlaboratories.com);
+	
+}
+
+*/
+
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,100,700);
 
 body, html, *, h1, h2, h3, p, ol, ul, ol li, ul li, a, li a, ul li a {
@@ -59,9 +68,11 @@ header {
 #intro {
 	display:block;
 	margin:auto;
-	padding:80px 0 30px 0;
+	padding:120px 0 40px 0;
 	width:100%;
 	border-bottom:dashed #c0c0c0 1px;
+	text-align:center;
+	background:url(../img/intro-bkg.png) repeat;
 }
 nav {
 	float:right;
@@ -91,9 +102,8 @@ nav ul li a:hover {
 	opacity:1.0;
 	text-decoration:none;
 }
-#introContain {
-	display:block;
-	margin:80px auto;
+#intro-text {
+	margin:20px auto;
 	width:450px;
 	text-align:center;
 }
@@ -109,7 +119,7 @@ nav ul li a:hover {
 }
 #wrapper {
 	display:block;
-	width:700px;
+	width:900px;
 	margin:auto;
 }
 a, a:hover {
@@ -153,7 +163,7 @@ p, ul li, ul li a {
 	font-family: 'Roboto', serif;
 	font-size:1.1em;
 	color:#444;
-	font-weight:100;
+	font-weight:300;
 	line-height: 1.3em;
 }
 p, ul {
