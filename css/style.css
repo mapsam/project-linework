@@ -224,6 +224,24 @@ section h1 {
 	padding-top:90px;
 	text-align:center;
 }
+.guide {
+	position:absolute;
+	top:300px;
+	width:100%;
+	height:300px;
+}
+.description {
+	float:left;
+	width:400px;
+	margin:10px;
+}
+.description p {
+	font-family: 'Roboto', serif;
+	font-size:0.9em;
+	color:#fff;
+	font-weight:100;
+	margin-bottom:10px;
+}
 
 /*
 
