@@ -195,11 +195,10 @@ section {
 	margin:20px 0;
 }
 section h1 {
-	color:#888;
+	color:#000;
 	margin-bottom:20px;
 	width:100%;
 	padding:5px 0 5px 15px;
-	color:#fff;
 	font-weight:100;
 	font-size:6em;
 }
@@ -233,7 +232,7 @@ section h1 {
 .description {
 	float:left;
 	width:400px;
-	margin:10px;
+	margin:20px;
 }
 .description p {
 	font-family: 'Roboto', serif;
@@ -241,6 +240,37 @@ section h1 {
 	color:#fff;
 	font-weight:100;
 	margin-bottom:10px;
+}
+.downloads {
+	position:absolute;
+	bottom:0;
+	width:100%;
+	margin:20px;
+}
+.downloads ul {
+	font-family:'Roboto', sans-serif;
+	color:#fff;
+	font-weight:700;
+	margin:0;
+	text-transform:uppercase;
+}
+.downloads ul, .downloads ul li {
+	list-style-type:none;
+	display:inline-block;
+	margin:0;
+}
+.downloads ul li a {
+	font-size:0.8em;
+	color:#e5e5e5;
+	margin-left:15px;
+	padding:5px 7px;
+	border-radius:4px;
+	text-decoration:none;
+	text-transform:none;
+}
+.downloads ul li a:hover {
+	color:#888;
+	background-color:#222;
 }
 
 /*
