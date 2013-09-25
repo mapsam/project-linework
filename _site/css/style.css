@@ -109,8 +109,8 @@ nav ul li a:hover {
 /* MASTER LAYOUT */
 #main {
 	display:block;
-	margin:80px auto 0;
-	padding:20px 0;
+	margin:20px auto 0;
+	padding:0px 0;
 	width:100%;
 	border-bottom:dashed #c0c0c0 1px;
 }
