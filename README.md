@@ -15,36 +15,24 @@ Mr. Huffman has written up a post about his inspiration and vision for Project L
 * Times Approximate
 * Twenty Seventy
 
-
-##TODO
-
-* ~~Design~~ [View mockup](http://svmatthews.github.io/project-linework/)
-* Build download & info UI for homepage
-* Extent UI for each file's data extent on the globe (visual or written?)
-* Data ( ~~shp~~ | ~~geojson~~ | **topojson** | ~~ai~~ ) - Topojson still needs some work since conversions didn't work properly. [Issue #1](https://github.com/svmatthews/project-linework/issues/1)
-* Test
-* ~~Convert to Jekyll on Github pages ( need to create `gh-pages` branch or set up new repo for project-linework.github.io )~~
-* ~~Update _config.yml to reflect GHs instead of local server `baseurl: null`~~
-* Share
-
-
 ##Download Packages
 
 Style files all include:
 
-* Illustrator CS3 File
-* Admin0 & Admin1 Shapefiles
-* Admin0 & Admin1 GeoJSON
-* Admin0 & Admin1 Topojson
+* Illustrator CS3 Linework *(projected to best fit extent)*
+* Shapefiles
+* GeoJSON
+* Topojson
 * Readme
 
-Extras:
+Possible Geographic Data (not included in all sets):
 
-* Source map if from a historical print map
-* Extra land types (i.e. streams, lakes, waterbodies)
-* Secondary Admin types (i.e. lines instead of polygons)
-
+* Admin0 Poly/Line
+* Admin1 Poly/Line
+* Streams
+* Lakes
+* Waterbodies
 
 ##License
 
-Probably going to be under the MIT license but that depends on [Daniel Huffman](https://twitter.com/pinakographos)
+Released to the public domain. Please credit the author and the project wherever possible.
