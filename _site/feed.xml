@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Project Linework</title>
+		<description>Handcrafted Vector Linework for Cartography</description>
+		<link>http://projectlinework.org/</link>
+		<atom:link href="http://projectlinework.org//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Planes, Trains, and Alligators</title>
+				<description>&lt;p&gt;The linework files below (but not necessarily the example maps) are public domain; use them as you see fit. Please consider &lt;strong&gt;giving&lt;/strong&gt; credit to the author where possible. And please, feel free to drop me a line showing off the maps you’ve made using these. I and the other contributors would like to see these things in action!&lt;/p&gt;
+</description>
+				<pubDate>Thu, 15 Aug 2013 00:00:00 -0700</pubDate>
+				<link>http://projectlinework.org//2013/08/15/pl_update_this_is_a_post_name/</link>
+				<guid isPermaLink="true">http://projectlinework.org//2013/08/15/pl_update_this_is_a_post_name/</guid>
+			</item>
+		
+			<item>
+				<title>Sometimes you need normalization</title>
+				<description>&lt;p&gt;The linework files below (but not necessarily the example maps) are public domain; use them as you see fit. Please consider giving credit to the author where possible. And please, feel free to drop me a line showing off the maps you’ve made using these. I and the other contributors would like to see these things in action!&lt;/p&gt;
+
+&lt;p&gt;Each linework set is distributed as an Esri Shapefile and as an Adobe Illustrator document (complete with projection/scale/coordinates of one point specified in the AI file, so you can reference and reproject it in MAPublisher).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;List item&lt;/li&gt;
+&lt;li&gt;another one&lt;/li&gt;
+&lt;li&gt;maybe we'll do three&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;And please, feel free to drop me a &lt;a href=&quot;http://mapsam.com&quot;&gt;line&lt;/a&gt; showing off the maps you’ve made using these. I and the other contributors would like to see these things in action!&lt;/p&gt;
+</description>
+				<pubDate>Mon, 03 Jun 2013 00:00:00 -0700</pubDate>
+				<link>http://projectlinework.org//2013/06/03/pl_update_from_here_to_there/</link>
+				<guid isPermaLink="true">http://projectlinework.org//2013/06/03/pl_update_from_here_to_there/</guid>
+			</item>
+		
+	</channel>
+</rss>

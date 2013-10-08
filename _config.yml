@@ -1,7 +1,7 @@
 # Name of your site 
 name: Project Linework
 
-# Short description (goes below the title; it will also be used in the RSS feed)
+# Short description and will be used in the RSS feed from https://github.com/snaptortoise/jekyll-rss-feeds
 description: Handcrafted Vector Linework for Cartography
 
 # Your name, as you want it to appear underneath each post and in the footer
@@ -20,7 +20,7 @@ markdown: rdiscount
 pygments: false
 
 # Continue compiling even if there are errors. Keep it true, unless troubleshooting.
-auto: false
+auto: true
 
 # Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
 permalink: pretty

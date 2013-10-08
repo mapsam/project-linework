@@ -114,7 +114,7 @@ nav ul li a:hover {
 	width:100%;
 	border-bottom:dashed #c0c0c0 1px;
 }
-#wrapper {
+.wrapper {
 	display:block;
 	width:900px;
 	margin:auto;
@@ -195,12 +195,12 @@ section {
 	margin:20px 0;
 }
 section h1 {
-	color:#000;
+	color:#444;
 	margin-bottom:20px;
 	width:100%;
 	padding:5px 0 5px 15px;
 	font-weight:100;
-	font-size:6em;
+	font-size:4.5em;
 }
 
 .info {
@@ -220,7 +220,7 @@ section h1 {
 	display:block;
 	margin:auto;
 	width:100%;
-	padding-top:90px;
+	padding-top:110px;
 	text-align:center;
 }
 .guide {
@@ -283,11 +283,15 @@ Unique styles in style-bricks.css
 footer {
 	display:block;
 	margin:auto;
-	height:400px;
 	width:100%;
 	background-color:#E2EDDE;
+	padding:30px 0 30px 0;
 }
 footer p {
-	color:#494234;
-
+	margin:0;
+	padding:0;
+	color:#999;
+	font-size:0.9em;
+	font-weight:400;
+	line-height:1.1em;
 }
