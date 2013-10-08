@@ -183,6 +183,14 @@ p a:hover, ul li a:hover {
 ul {
 	margin-left:30px;
 }
+blockquote {
+	margin-left:20px;
+	font-style:italic;
+	font-size:0.85em;
+}
+blockquote p {
+	line-height:1.6em;
+}
 .post {
 	margin-bottom:50px;
 

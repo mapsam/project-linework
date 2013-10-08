@@ -7,32 +7,49 @@
 		<atom:link href="http://projectlinework.org//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Planes, Trains, and Alligators</title>
-				<description>&lt;p&gt;The linework files below (but not necessarily the example maps) are public domain; use them as you see fit. Please consider &lt;strong&gt;giving&lt;/strong&gt; credit to the author where possible. And please, feel free to drop me a line showing off the maps you’ve made using these. I and the other contributors would like to see these things in action!&lt;/p&gt;
+				<title>Understanding TopoJSON</title>
+				<description>&lt;p&gt;The Project Linework file types are all useful in their own way. &lt;a href=&quot;http://en.wikipedia.org/wiki/Topojson&quot;&gt;TopoJSON&lt;/a&gt; is an extension of GeoJSON created by Mike Bostock that creates its geometry through shared topology. TopoJSON files effectively reduce redundancy by only recording a shared point once instead of multiple times for multiple polygons within the file. Bostock explains it best:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;TopoJSON is an extension of GeoJSON that encodes topology. Rather than representing geometries discretely, geometries in TopoJSON files are stitched together from shared line segments called arcs. TopoJSON eliminates redundancy, offering much more compact representations of geometry than with GeoJSON; typical TopoJSON files are 80% smaller than their GeoJSON equivalents.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;So, TopoJSON files are smaller, which is great! Most people will use these files in accordance with the &lt;a href=&quot;http://d3js.org&quot;&gt;d3.js&lt;/a&gt; visualization library. See an example of Project Linework TopoJSONs in action.&lt;/p&gt;
+
+&lt;p&gt;With this simplification process, it is important to understand your own map and needs. Project Linework's TopoJSON files are all &lt;a href=&quot;https://github.com/mbostock/topojson/wiki/Command-Line-Reference#quantization&quot;&gt;quantized&lt;/a&gt; at &lt;strong&gt;magnitude of 1e5&lt;/strong&gt; so the map can render at full detail in greater zoom levels. If you do not plan to make use of portions of your data at high zoom levels, look into &lt;a href=&quot;https://github.com/mbostock/topojson/wiki/Installation&quot;&gt;installing&lt;/a&gt; and &lt;a href=&quot;https://github.com/mbostock/topojson/wiki/Command-Line-Reference&quot;&gt;converting&lt;/a&gt; to TopoJSON at lower quantization levels to reduce file size.&lt;/p&gt;
 </description>
-				<pubDate>Thu, 15 Aug 2013 00:00:00 -0700</pubDate>
-				<link>http://projectlinework.org//2013/08/15/pl_update_this_is_a_post_name/</link>
-				<guid isPermaLink="true">http://projectlinework.org//2013/08/15/pl_update_this_is_a_post_name/</guid>
+				<pubDate>Tue, 08 Oct 2013 00:00:00 -0700</pubDate>
+				<link>http://projectlinework.org//2013/10/08/topojson_files/</link>
+				<guid isPermaLink="true">http://projectlinework.org//2013/10/08/topojson_files/</guid>
 			</item>
 		
 			<item>
-				<title>Sometimes you need normalization</title>
-				<description>&lt;p&gt;The linework files below (but not necessarily the example maps) are public domain; use them as you see fit. Please consider giving credit to the author where possible. And please, feel free to drop me a line showing off the maps you’ve made using these. I and the other contributors would like to see these things in action!&lt;/p&gt;
+				<title>How projectlinework.org runs</title>
+				<description>&lt;p&gt;Project Linework's new homes comes with a few updates but aims to keep things simple. All of your linework sets currently include downloads in four file types: &lt;strong&gt;Shapefile, Geojson, Topojson, and Adobe Illustrator&lt;/strong&gt;. These have been hand-crafted for your use in any way you please.&lt;/p&gt;
 
-&lt;p&gt;Each linework set is distributed as an Esri Shapefile and as an Adobe Illustrator document (complete with projection/scale/coordinates of one point specified in the AI file, so you can reference and reproject it in MAPublisher).&lt;/p&gt;
+&lt;p&gt;The download packages are hosted by the &lt;a href=&quot;http://giscollective.org&quot;&gt;GISCollective&lt;/a&gt; and the website is running completely on &lt;a href=&quot;https://github.com/svmatthews/project-linework/tree/gh-pages&quot;&gt;Github pages&lt;/a&gt; with jekyll. The most up-to-date linework sets can also be &lt;a href=&quot;https://github.com/svmatthews/project-linework&quot;&gt;found on Github&lt;/a&gt;, but we urge you to download from the links on the website for fully-functioning data sets.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 08 Oct 2013 00:00:00 -0700</pubDate>
+				<link>http://projectlinework.org//2013/10/08/how_the_website_is_made/</link>
+				<guid isPermaLink="true">http://projectlinework.org//2013/10/08/how_the_website_is_made/</guid>
+			</item>
+		
+			<item>
+				<title>projectlinework.org released!</title>
+				<description>&lt;p&gt;With the coming of the &lt;a href=&quot;http://nacis.org&quot;&gt;NACIS&lt;/a&gt; annual conference, Project Linework releases in full with a new home here at projectlinework.org. We're excited to announce the first official series of linework sets here. Below are the seven new sets:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;List item&lt;/li&gt;
-&lt;li&gt;another one&lt;/li&gt;
-&lt;li&gt;maybe we'll do three&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Elmer Casual&lt;/strong&gt; created by Marty Elmer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Charmingly Inaccurate&lt;/strong&gt; edited by Daniel P Huffman&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Geo-Metro&lt;/strong&gt; created by Daniel P Huffman&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Liana&lt;/strong&gt; created by Sarah Bennett&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Times Approximate&lt;/strong&gt; edited by Daniel P Huffman&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Twenty Seventy&lt;/strong&gt; created by Marty Elmer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wargames&lt;/strong&gt; by Daniel Huffman&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;p&gt;And please, feel free to drop me a &lt;a href=&quot;http://mapsam.com&quot;&gt;line&lt;/a&gt; showing off the maps you’ve made using these. I and the other contributors would like to see these things in action!&lt;/p&gt;
 </description>
-				<pubDate>Mon, 03 Jun 2013 00:00:00 -0700</pubDate>
-				<link>http://projectlinework.org//2013/06/03/pl_update_from_here_to_there/</link>
-				<guid isPermaLink="true">http://projectlinework.org//2013/06/03/pl_update_from_here_to_there/</guid>
+				<pubDate>Fri, 04 Oct 2013 00:00:00 -0700</pubDate>
+				<link>http://projectlinework.org//2013/10/04/linework_released/</link>
+				<guid isPermaLink="true">http://projectlinework.org//2013/10/04/linework_released/</guid>
 			</item>
 		
 	</channel>

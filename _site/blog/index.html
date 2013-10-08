@@ -26,27 +26,35 @@
 		<h1>Updates</h1>
 		
 <div class="post">
-	<h2><a href="/2013/08/15/pl_update_this_is_a_post_name/">Planes, Trains, and Alligators</a></h2>
-	<h3>15 Aug 2013</h3>
-	<p><p>The linework files below (but not necessarily the example maps) are public domain; use them as you see fit. Please consider <strong>giving</strong> credit to the author where possible. And please, feel free to drop me a line showing off the maps you’ve made using these. I and the other contributors would like to see these things in action!</p>
+	<h2><a href="/2013/10/08/topojson_files/">Understanding TopoJSON</a></h2>
+	<h3>08 Oct 2013</h3>
+	<p><p>The Project Linework file types are all useful in their own way. <a href="http://en.wikipedia.org/wiki/Topojson">TopoJSON</a> is an extension of GeoJSON created by Mike Bostock that creates its geometry through shared topology. TopoJSON files effectively reduce redundancy by only recording a shared point once instead of multiple times for multiple polygons within the file. Bostock explains it best:</p> <blockquote><p>TopoJSON is an extension of GeoJSON that encodes topology. Rather than representing geometries discretely, geometries in TopoJSON files are stitched together from shared line segments called arcs. TopoJSON eliminates redundancy, offering much more compact representations of geometry than with GeoJSON; typical TopoJSON files are 80% smaller than their GeoJSON equivalents.</p></blockquote> <p>So, TopoJSON files are smaller, which is great! Most people will use these files in accordance with the <a href="http://d3js.org">d3.js</a> visualization library. See an example of Project Linework TopoJSONs in action.</p> <p>With this simplification process, it is important to understand your own map and needs. Project Linework's TopoJSON files are all <a href="https://github.com/mbostock/topojson/wiki/Command-Line-Reference#quantization">quantized</a> at <strong>magnitude of 1e5</strong> so the map can render at full detail in greater zoom levels. If you do not plan to make use of portions of your data at high zoom levels, look into <a href="https://github.com/mbostock/topojson/wiki/Installation">installing</a> and <a href="https://github.com/mbostock/topojson/wiki/Command-Line-Reference">converting</a> to...</p>
+</div>
+
+<div class="post">
+	<h2><a href="/2013/10/08/how_the_website_is_made/">How projectlinework.org runs</a></h2>
+	<h3>08 Oct 2013</h3>
+	<p><p>Project Linework's new homes comes with a few updates but aims to keep things simple. All of your linework sets currently include downloads in four file types: <strong>Shapefile, Geojson, Topojson, and Adobe Illustrator</strong>. These have been hand-crafted for your use in any way you please.</p>
+
+<p>The download packages are hosted by the <a href="http://giscollective.org">GISCollective</a> and the website is running completely on <a href="https://github.com/svmatthews/project-linework/tree/gh-pages">Github pages</a> with jekyll. The most up-to-date linework sets can also be <a href="https://github.com/svmatthews/project-linework">found on Github</a>, but we urge you to download from the links on the website for fully-functioning data sets.</p>
 </p>
 </div>
 
 <div class="post">
-	<h2><a href="/2013/06/03/pl_update_from_here_to_there/">Sometimes you need normalization</a></h2>
-	<h3>03 Jun 2013</h3>
-	<p><p>The linework files below (but not necessarily the example maps) are public domain; use them as you see fit. Please consider giving credit to the author where possible. And please, feel free to drop me a line showing off the maps you’ve made using these. I and the other contributors would like to see these things in action!</p>
-
-<p>Each linework set is distributed as an Esri Shapefile and as an Adobe Illustrator document (complete with projection/scale/coordinates of one point specified in the AI file, so you can reference and reproject it in MAPublisher).</p>
+	<h2><a href="/2013/10/04/linework_released/">projectlinework.org released!</a></h2>
+	<h3>04 Oct 2013</h3>
+	<p><p>With the coming of the <a href="http://nacis.org">NACIS</a> annual conference, Project Linework releases in full with a new home here at projectlinework.org. We're excited to announce the first official series of linework sets here. Below are the seven new sets:</p>
 
 <ul>
-<li>List item</li>
-<li>another one</li>
-<li>maybe we'll do three</li>
+<li><strong>Elmer Casual</strong> created by Marty Elmer</li>
+<li><strong>Charmingly Inaccurate</strong> edited by Daniel P Huffman</li>
+<li><strong>Geo-Metro</strong> created by Daniel P Huffman</li>
+<li><strong>Liana</strong> created by Sarah Bennett</li>
+<li><strong>Times Approximate</strong> edited by Daniel P Huffman</li>
+<li><strong>Twenty Seventy</strong> created by Marty Elmer</li>
+<li><strong>Wargames</strong> by Daniel Huffman</li>
 </ul>
 
-
-<p>And please, feel free to drop me a <a href="http://mapsam.com">line</a> showing off the maps you’ve made using these. I and the other contributors would like to see these things in action!</p>
 </p>
 </div>
 
