@@ -1,14 +1,8 @@
 ---
 layout: default
-title: Sometimes you need normalization
+title: How projectlinework.org runs
 ---
 
-The linework files below (but not necessarily the example maps) are public domain; use them as you see fit. Please consider giving credit to the author where possible. And please, feel free to drop me a line showing off the maps you’ve made using these. I and the other contributors would like to see these things in action!
+Project Linework's new homes comes with a few updates but aims to keep things simple. All of your linework sets currently include downloads in four file types: **Shapefile, Geojson, Topojson, and Adobe Illustrator**. These have been hand-crafted for your use in any way you please.
 
-Each linework set is distributed as an Esri Shapefile and as an Adobe Illustrator document (complete with projection/scale/coordinates of one point specified in the AI file, so you can reference and reproject it in MAPublisher).
-
-* List item
-* another one
-* maybe we'll do three
-
-And please, feel free to drop me a [line](http://mapsam.com) showing off the maps you’ve made using these. I and the other contributors would like to see these things in action!
+The download packages are hosted by the [GISCollective](http://giscollective.org) and the website is running completely on [Github pages](https://github.com/svmatthews/project-linework/tree/gh-pages) with jekyll. The most up-to-date linework sets can also be [found on Github](https://github.com/svmatthews/project-linework), but we urge you to download from the links on the website for fully-functioning data sets.
