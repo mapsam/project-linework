@@ -107,9 +107,16 @@ nav ul li a:hover {
 
 
 /* MASTER LAYOUT */
-#main {
+#home-main {
 	display:block;
 	margin:20px auto 0;
+	padding:0px 0;
+	width:100%;
+	border-bottom:dashed #c0c0c0 1px;
+}
+#main {
+	display:block;
+	margin:60px auto 0;
 	padding:0px 0;
 	width:100%;
 	border-bottom:dashed #c0c0c0 1px;
@@ -123,8 +130,8 @@ a, a:hover {
 	text-decoration:none;
 }
 h1 {
-	font-family: 'Amatic SC', cursive;
-	font-size:4em;
+	font-family: 'Roboto', cursive;
+	font-size:3em;
 	font-weight:100;
 	color:#111;
 	margin-bottom:20px;
@@ -231,7 +238,7 @@ section h1 {
 }
 .description {
 	float:left;
-	width:400px;
+	width:450px;
 	margin:20px;
 }
 .description p {
