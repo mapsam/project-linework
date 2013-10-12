@@ -1,0 +1,273 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 5, "LEFT_FID": 18, "RIGHT_FID": 16, "Shape_Leng": 249575.463900, "LEFT": "US-FL", "RIGHT": "US-AL" }, "geometry": { "type": "LineString", "coordinates": [ [ -85.222521, 31.030464 ], [ -85.222639, 31.030464 ], [ -87.368378, 31.030464 ], [ -87.368378, 31.030009 ], [ -87.368378, 30.240763 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 6, "LEFT_FID": 19, "RIGHT_FID": 18, "Shape_Leng": 311295.334369, "LEFT": "US-GA", "RIGHT": "US-FL" }, "geometry": { "type": "LineString", "coordinates": [ [ -85.222521, 31.030464 ], [ -84.742355, 30.660359 ], [ -81.467104, 30.660359 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 11, "LEFT_FID": 17, "RIGHT_FID": 6, "Shape_Leng": 349509.410293, "LEFT": "US-LA", "RIGHT": "US-TX" }, "geometry": { "type": "LineString", "coordinates": [ [ -94.278354, 33.053036 ], [ -93.956300, 32.379163 ], [ -93.956300, 29.687469 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 12, "LEFT_FID": 17, "RIGHT_FID": 13, "Shape_Leng": 265279.931600, "LEFT": "US-LA", "RIGHT": "US-AR" }, "geometry": { "type": "LineString", "coordinates": [ [ -90.908212, 33.053036 ], [ -90.908331, 33.053036 ], [ -94.278354, 33.053036 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 13, "LEFT_FID": 17, "RIGHT_FID": 15, "Shape_Leng": 524929.941749, "LEFT": "US-LA", "RIGHT": "US-MS" }, "geometry": { "type": "LineString", "coordinates": [ [ -88.970808, 30.240763 ], [ -89.756208, 30.240763 ], [ -89.756208, 31.030464 ], [ -91.746960, 31.030464 ], [ -91.747183, 31.030464 ], [ -90.908331, 32.145119 ], [ -90.908212, 32.145276 ], [ -90.908212, 33.053036 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 14, "LEFT_FID": 19, "RIGHT_FID": 16, "Shape_Leng": 221490.356400, "LEFT": "US-GA", "RIGHT": "US-AL" }, "geometry": { "type": "LineString", "coordinates": [ [ -85.222521, 33.183184 ], [ -85.222521, 31.030464 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 16, "LEFT_FID": 13, "RIGHT_FID": 6, "Shape_Leng": 99356.927475, "LEFT": "US-AR", "RIGHT": "US-TX" }, "geometry": { "type": "LineString", "coordinates": [ [ -94.710070, 33.954011 ], [ -94.710042, 33.953951 ], [ -94.467241, 33.447760 ], [ -94.278412, 33.053156 ], [ -94.278354, 33.053036 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 17, "LEFT_FID": 38, "RIGHT_FID": 35, "Shape_Leng": 259184.179600, "LEFT": "US-AZ", "RIGHT": "US-CA" }, "geometry": { "type": "LineString", "coordinates": [ [ -114.482859, 34.895056 ], [ -114.482859, 32.395895 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 18, "LEFT_FID": 15, "RIGHT_FID": 13, "Shape_Leng": 205028.043850, "LEFT": "US-MS", "RIGHT": "US-AR" }, "geometry": { "type": "LineString", "coordinates": [ [ -90.369985, 34.954414 ], [ -90.908212, 33.836097 ], [ -90.908212, 33.053036 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 19, "LEFT_FID": 15, "RIGHT_FID": 14, "Shape_Leng": 157785.717800, "LEFT": "US-MS", "RIGHT": "US-TN" }, "geometry": { "type": "LineString", "coordinates": [ [ -88.365460, 34.954414 ], [ -90.369985, 34.954414 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 20, "LEFT_FID": 16, "RIGHT_FID": 15, "Shape_Leng": 486255.590800, "LEFT": "US-AL", "RIGHT": "US-MS" }, "geometry": { "type": "LineString", "coordinates": [ [ -88.365460, 34.954414 ], [ -88.365460, 30.240763 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 21, "LEFT_FID": 16, "RIGHT_FID": 14, "Shape_Leng": 180388.989200, "LEFT": "US-AL", "RIGHT": "US-TN" }, "geometry": { "type": "LineString", "coordinates": [ [ -86.073781, 34.954414 ], [ -88.365460, 34.954414 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 22, "LEFT_FID": 19, "RIGHT_FID": 16, "Shape_Leng": 195915.441113, "LEFT": "US-GA", "RIGHT": "US-AL" }, "geometry": { "type": "LineString", "coordinates": [ [ -86.073781, 34.954414 ], [ -85.916440, 34.628299 ], [ -85.222521, 33.183184 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 23, "LEFT_FID": 19, "RIGHT_FID": 14, "Shape_Leng": 184047.680700, "LEFT": "US-GA", "RIGHT": "US-TN" }, "geometry": { "type": "LineString", "coordinates": [ [ -83.735622, 34.954414 ], [ -83.735858, 34.954414 ], [ -86.073703, 34.954414 ], [ -86.073781, 34.954414 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 24, "LEFT_FID": 20, "RIGHT_FID": 19, "Shape_Leng": 408122.486935, "LEFT": "US-SC", "RIGHT": "US-GA" }, "geometry": { "type": "LineString", "coordinates": [ [ -83.735622, 34.954414 ], [ -81.864669, 33.538851 ], [ -80.996628, 31.718321 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 25, "LEFT_FID": 21, "RIGHT_FID": 20, "Shape_Leng": 493045.768442, "LEFT": "US-NC", "RIGHT": "US-SC" }, "geometry": { "type": "LineString", "coordinates": [ [ -83.735622, 34.954414 ], [ -81.942779, 35.445539 ], [ -81.089464, 35.212022 ], [ -79.784003, 34.854187 ], [ -78.328694, 33.752925 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 26, "LEFT_FID": 14, "RIGHT_FID": 13, "Shape_Leng": 123048.355435, "LEFT": "US-TN", "RIGHT": "US-AR" }, "geometry": { "type": "LineString", "coordinates": [ [ -89.834989, 36.058080 ], [ -90.369985, 34.954414 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 27, "LEFT_FID": 14, "RIGHT_FID": 7, "Shape_Leng": 63503.100500, "LEFT": "US-TN", "RIGHT": "US-MO" }, "geometry": { "type": "LineString", "coordinates": [ [ -89.507105, 36.416419 ], [ -89.507105, 36.416213 ], [ -89.507105, 36.058080 ], [ -89.834989, 36.058080 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 28, "LEFT_FID": 55, "RIGHT_FID": 6, "Shape_Leng": 748134.179700, "LEFT": "US-NM", "RIGHT": "US-TX" }, "geometry": { "type": "LineString", "coordinates": [ [ -106.498398, 31.884445 ], [ -103.092765, 31.884445 ], [ -103.092765, 36.499378 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 29, "LEFT_FID": 6, "RIGHT_FID": 5, "Shape_Leng": 876041.737968, "LEFT": "US-TX", "RIGHT": "US-OK" }, "geometry": { "type": "LineString", "coordinates": [ [ -94.710070, 33.954011 ], [ -97.858170, 33.954011 ], [ -99.978226, 34.538062 ], [ -99.978226, 36.499378 ], [ -99.978975, 36.499378 ], [ -103.092765, 36.499378 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 30, "LEFT_FID": 13, "RIGHT_FID": 5, "Shape_Leng": 267822.412100, "LEFT": "US-AR", "RIGHT": "US-OK" }, "geometry": { "type": "LineString", "coordinates": [ [ -94.710070, 36.514358 ], [ -94.710070, 33.954011 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 31, "LEFT_FID": 13, "RIGHT_FID": 7, "Shape_Leng": 431952.351715, "LEFT": "US-AR", "RIGHT": "US-MO" }, "geometry": { "type": "LineString", "coordinates": [ [ -89.834989, 36.058080 ], [ -89.835494, 36.058080 ], [ -90.394486, 36.058080 ], [ -90.393845, 36.172377 ], [ -90.391926, 36.514358 ], [ -94.709558, 36.514358 ], [ -94.710070, 36.514358 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 32, "LEFT_FID": 26, "RIGHT_FID": 14, "Shape_Leng": 453798.657200, "LEFT": "US-KY", "RIGHT": "US-TN" }, "geometry": { "type": "LineString", "coordinates": [ [ -89.507105, 36.416419 ], [ -88.264779, 36.416419 ], [ -88.264779, 36.613682 ], [ -84.006035, 36.613682 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 33, "LEFT_FID": 36, "RIGHT_FID": 14, "Shape_Leng": 192484.375000, "LEFT": "US-VA", "RIGHT": "US-TN" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.006035, 36.613682 ], [ -84.005602, 36.613682 ], [ -81.560695, 36.613682 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 34, "LEFT_FID": 21, "RIGHT_FID": 14, "Shape_Leng": 244168.070015, "LEFT": "US-NC", "RIGHT": "US-TN" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.560695, 36.613682 ], [ -81.561199, 36.613300 ], [ -83.325144, 35.268754 ], [ -83.735490, 34.954515 ], [ -83.735622, 34.954414 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 35, "LEFT_FID": 36, "RIGHT_FID": 21, "Shape_Leng": 425753.857400, "LEFT": "US-VA", "RIGHT": "US-NC" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.560695, 36.613682 ], [ -76.151877, 36.613682 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 37, "LEFT_FID": 39, "RIGHT_FID": 38, "Shape_Leng": 258719.091900, "LEFT": "US-NV", "RIGHT": "US-AZ" }, "geometry": { "type": "LineString", "coordinates": [ [ -114.482859, 34.895056 ], [ -114.482859, 36.117437 ], [ -114.482859, 36.117525 ], [ -114.006868, 36.117525 ], [ -114.006592, 36.117525 ], [ -114.006592, 37.001401 ], [ -114.006592, 37.001577 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 38, "LEFT_FID": 38, "RIGHT_FID": 1, "Shape_Leng": 390704.834000, "LEFT": "US-AZ", "RIGHT": "US-UT" }, "geometry": { "type": "LineString", "coordinates": [ [ -109.043040, 37.001577 ], [ -109.043198, 37.001577 ], [ -114.006592, 37.001577 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 39, "LEFT_FID": 55, "RIGHT_FID": 38, "Shape_Leng": 608480.688500, "LEFT": "US-NM", "RIGHT": "US-AZ" }, "geometry": { "type": "LineString", "coordinates": [ [ -109.043040, 37.001577 ], [ -109.043040, 31.149073 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 40, "LEFT_FID": 58, "RIGHT_FID": 55, "Shape_Leng": 468374.511700, "LEFT": "US-CO", "RIGHT": "US-NM" }, "geometry": { "type": "LineString", "coordinates": [ [ -109.043040, 37.001577 ], [ -103.092884, 37.001577 ], [ -103.092765, 37.001577 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 41, "LEFT_FID": 55, "RIGHT_FID": 5, "Shape_Leng": 52982.812500, "LEFT": "US-NM", "RIGHT": "US-OK" }, "geometry": { "type": "LineString", "coordinates": [ [ -103.092765, 36.499378 ], [ -103.092765, 36.499407 ], [ -103.092765, 37.001313 ], [ -103.092765, 37.001577 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 42, "LEFT_FID": 58, "RIGHT_FID": 5, "Shape_Leng": 77623.168900, "LEFT": "US-CO", "RIGHT": "US-OK" }, "geometry": { "type": "LineString", "coordinates": [ [ -103.092765, 37.001577 ], [ -102.106633, 37.001577 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 43, "LEFT_FID": 57, "RIGHT_FID": 5, "Shape_Leng": 582218.725600, "LEFT": "US-KS", "RIGHT": "US-OK" }, "geometry": { "type": "LineString", "coordinates": [ [ -102.106633, 37.001577 ], [ -94.710070, 37.001577 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 44, "LEFT_FID": 7, "RIGHT_FID": 5, "Shape_Leng": 51404.614300, "LEFT": "US-MO", "RIGHT": "US-OK" }, "geometry": { "type": "LineString", "coordinates": [ [ -94.710070, 37.001577 ], [ -94.710070, 37.001313 ], [ -94.710070, 36.514358 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 45, "LEFT_FID": 26, "RIGHT_FID": 7, "Shape_Leng": 64259.643600, "LEFT": "US-KY", "RIGHT": "US-MO" }, "geometry": { "type": "LineString", "coordinates": [ [ -89.507105, 37.025610 ], [ -89.507105, 37.025463 ], [ -89.507105, 36.416419 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 47, "LEFT_FID": 26, "RIGHT_FID": 10, "Shape_Leng": 93006.022116, "LEFT": "US-KY", "RIGHT": "US-IL" }, "geometry": { "type": "LineString", "coordinates": [ [ -88.488752, 37.401155 ], [ -88.564262, 37.281193 ], [ -89.507105, 37.025610 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 48, "LEFT_FID": 36, "RIGHT_FID": 26, "Shape_Leng": 141526.731833, "LEFT": "US-VA", "RIGHT": "US-KY" }, "geometry": { "type": "LineString", "coordinates": [ [ -82.734639, 37.560349 ], [ -82.734758, 37.560261 ], [ -84.006035, 36.613682 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 49, "LEFT_FID": 56, "RIGHT_FID": 36, "Shape_Leng": 37641.113200, "LEFT": "US-MD", "RIGHT": "US-VA" }, "geometry": { "type": "LineString", "coordinates": [ [ -75.818873, 37.759597 ], [ -75.340676, 37.759597 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 51, "LEFT_FID": 26, "RIGHT_FID": 25, "Shape_Leng": 59894.018500, "LEFT": "US-KY", "RIGHT": "US-WV" }, "geometry": { "type": "LineString", "coordinates": [ [ -82.734639, 37.560349 ], [ -82.734639, 38.124416 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 54, "LEFT_FID": 57, "RIGHT_FID": 7, "Shape_Leng": 189796.167000, "LEFT": "US-KS", "RIGHT": "US-MO" }, "geometry": { "type": "LineString", "coordinates": [ [ -94.710070, 37.001577 ], [ -94.710070, 38.788424 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 56, "LEFT_FID": 56, "RIGHT_FID": 36, "Shape_Leng": 78712.933288, "LEFT": "US-MD", "RIGHT": "US-VA" }, "geometry": { "type": "LineString", "coordinates": [ [ -76.963747, 38.962387 ], [ -76.621683, 38.269060 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 57, "LEFT_FID": 59, "RIGHT_FID": 56, "Shape_Leng": 14654.304662, "LEFT": "US-DC", "RIGHT": "US-MD" }, "geometry": { "type": "LineString", "coordinates": [ [ -76.963747, 38.962387 ], [ -76.832105, 39.059285 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 58, "LEFT_FID": 59, "RIGHT_FID": 36, "Shape_Leng": 16245.805398, "LEFT": "US-DC", "RIGHT": "US-VA" }, "geometry": { "type": "LineString", "coordinates": [ [ -77.068328, 39.089253 ], [ -77.003098, 39.041255 ], [ -76.963747, 38.962387 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 59, "LEFT_FID": 26, "RIGHT_FID": 12, "Shape_Leng": 351740.093138, "LEFT": "US-KY", "RIGHT": "US-IN" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.779815, 39.100149 ], [ -84.779894, 39.100091 ], [ -86.269944, 38.000156 ], [ -88.488646, 37.401184 ], [ -88.488752, 37.401155 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 60, "LEFT_FID": 26, "RIGHT_FID": 24, "Shape_Leng": 191705.552202, "LEFT": "US-KY", "RIGHT": "US-OH" }, "geometry": { "type": "LineString", "coordinates": [ [ -82.734639, 38.124416 ], [ -84.779815, 39.100149 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 61, "LEFT_FID": 59, "RIGHT_FID": 56, "Shape_Leng": 26329.119535, "LEFT": "US-DC", "RIGHT": "US-MD" }, "geometry": { "type": "LineString", "coordinates": [ [ -76.832105, 39.059285 ], [ -76.970837, 39.161367 ], [ -77.068328, 39.089253 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 64, "LEFT_FID": 36, "RIGHT_FID": 25, "Shape_Leng": 538041.041135, "LEFT": "US-VA", "RIGHT": "US-WV" }, "geometry": { "type": "LineString", "coordinates": [ [ -77.604625, 39.483271 ], [ -79.656221, 38.613751 ], [ -80.169947, 37.568948 ], [ -81.020437, 37.339022 ], [ -82.058902, 37.057853 ], [ -82.734639, 37.560349 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 65, "LEFT_FID": 56, "RIGHT_FID": 36, "Shape_Leng": 59695.901930, "LEFT": "US-MD", "RIGHT": "US-VA" }, "geometry": { "type": "LineString", "coordinates": [ [ -77.604625, 39.483271 ], [ -77.068328, 39.089253 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 66, "LEFT_FID": 56, "RIGHT_FID": 25, "Shape_Leng": 203131.997203, "LEFT": "US-MD", "RIGHT": "US-WV" }, "geometry": { "type": "LineString", "coordinates": [ [ -79.491019, 39.756860 ], [ -79.491019, 39.756744 ], [ -79.491019, 39.282942 ], [ -79.491019, 39.282808 ], [ -78.741217, 39.483242 ], [ -78.741109, 39.483271 ], [ -77.604625, 39.483271 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 67, "LEFT_FID": 56, "RIGHT_FID": 22, "Shape_Leng": 286208.886800, "LEFT": "US-MD", "RIGHT": "US-PA" }, "geometry": { "type": "LineString", "coordinates": [ [ -75.854993, 39.756860 ], [ -79.491019, 39.756860 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 68, "LEFT_FID": 56, "RIGHT_FID": 23, "Shape_Leng": 204523.950200, "LEFT": "US-MD", "RIGHT": "US-DE" }, "geometry": { "type": "LineString", "coordinates": [ [ -74.982462, 38.487474 ], [ -75.854993, 38.487474 ], [ -75.854993, 39.756860 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 69, "LEFT_FID": 23, "RIGHT_FID": 22, "Shape_Leng": 19201.928700, "LEFT": "US-DE", "RIGHT": "US-PA" }, "geometry": { "type": "LineString", "coordinates": [ [ -75.611050, 39.756860 ], [ -75.611426, 39.756860 ], [ -75.854993, 39.756860 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 70, "LEFT_FID": 27, "RIGHT_FID": 23, "Shape_Leng": 35155.333896, "LEFT": "US-NJ", "RIGHT": "US-DE" }, "geometry": { "type": "LineString", "coordinates": [ [ -75.611050, 39.756860 ], [ -75.611029, 39.756817 ], [ -75.458768, 39.449676 ], [ -75.458098, 39.449213 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 71, "LEFT_FID": 58, "RIGHT_FID": 57, "Shape_Leng": 322023.754900, "LEFT": "US-CO", "RIGHT": "US-KS" }, "geometry": { "type": "LineString", "coordinates": [ [ -102.106633, 37.001577 ], [ -102.106633, 40.021852 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 72, "LEFT_FID": 57, "RIGHT_FID": 8, "Shape_Leng": 534110.034200, "LEFT": "US-KS", "RIGHT": "US-NE" }, "geometry": { "type": "LineString", "coordinates": [ [ -95.321248, 40.021852 ], [ -102.106633, 40.021852 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 73, "LEFT_FID": 57, "RIGHT_FID": 7, "Shape_Leng": 140707.431183, "LEFT": "US-KS", "RIGHT": "US-MO" }, "geometry": { "type": "LineString", "coordinates": [ [ -94.710070, 38.788424 ], [ -95.321090, 40.021535 ], [ -95.321248, 40.021852 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 74, "LEFT_FID": 8, "RIGHT_FID": 7, "Shape_Leng": 63688.283128, "LEFT": "US-NE", "RIGHT": "US-MO" }, "geometry": { "type": "LineString", "coordinates": [ [ -95.321248, 40.021852 ], [ -95.598082, 40.576941 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 75, "LEFT_FID": 9, "RIGHT_FID": 7, "Shape_Leng": 346912.158200, "LEFT": "US-IA", "RIGHT": "US-MO" }, "geometry": { "type": "LineString", "coordinates": [ [ -95.598082, 40.576941 ], [ -95.597727, 40.576941 ], [ -91.190876, 40.576941 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 76, "LEFT_FID": 10, "RIGHT_FID": 7, "Shape_Leng": 411623.437884, "LEFT": "US-IL", "RIGHT": "US-MO" }, "geometry": { "type": "LineString", "coordinates": [ [ -91.190876, 40.576941 ], [ -91.190876, 39.827260 ], [ -91.190679, 39.826864 ], [ -90.699129, 38.834494 ], [ -90.222824, 38.483199 ], [ -90.222756, 38.483061 ], [ -90.161186, 38.358171 ], [ -89.507105, 37.025610 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 77, "LEFT_FID": 25, "RIGHT_FID": 24, "Shape_Leng": 327788.092501, "LEFT": "US-WV", "RIGHT": "US-OH" }, "geometry": { "type": "LineString", "coordinates": [ [ -80.524262, 40.630072 ], [ -80.953258, 39.768330 ], [ -81.211541, 39.247231 ], [ -81.390718, 39.115545 ], [ -82.734639, 38.124416 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 78, "LEFT_FID": 25, "RIGHT_FID": 22, "Shape_Leng": 175409.448200, "LEFT": "US-WV", "RIGHT": "US-PA" }, "geometry": { "type": "LineString", "coordinates": [ [ -79.491019, 39.756860 ], [ -80.524065, 39.756860 ], [ -80.524262, 39.756860 ], [ -80.524262, 40.629476 ], [ -80.524262, 40.630072 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 80, "LEFT_FID": 58, "RIGHT_FID": 1, "Shape_Leng": 432106.958000, "LEFT": "US-CO", "RIGHT": "US-UT" }, "geometry": { "type": "LineString", "coordinates": [ [ -109.043040, 41.041404 ], [ -109.043040, 37.001577 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 81, "LEFT_FID": 58, "RIGHT_FID": 3, "Shape_Leng": 392884.545900, "LEFT": "US-CO", "RIGHT": "US-WY" }, "geometry": { "type": "LineString", "coordinates": [ [ -104.051797, 41.041404 ], [ -104.052073, 41.041404 ], [ -109.043040, 41.041404 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 82, "LEFT_FID": 58, "RIGHT_FID": 8, "Shape_Leng": 263196.337800, "LEFT": "US-CO", "RIGHT": "US-NE" }, "geometry": { "type": "LineString", "coordinates": [ [ -102.106633, 40.021852 ], [ -102.106633, 41.041404 ], [ -104.051797, 41.041404 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 84, "LEFT_FID": 30, "RIGHT_FID": 27, "Shape_Leng": 3.846183, "LEFT": "US-CT", "RIGHT": "US-NJ" }, "geometry": { "type": "LineString", "coordinates": [ [ -73.858455, 41.084138 ], [ -73.858410, 41.084125 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 87, "LEFT_FID": 47, "RIGHT_FID": 27, "Shape_Leng": 71459.463965, "LEFT": "US-NY", "RIGHT": "US-NJ" }, "geometry": { "type": "LineString", "coordinates": [ [ -74.704828, 41.322463 ], [ -73.858455, 41.084138 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 88, "LEFT_FID": 27, "RIGHT_FID": 22, "Shape_Leng": 203755.663552, "LEFT": "US-NJ", "RIGHT": "US-PA" }, "geometry": { "type": "LineString", "coordinates": [ [ -74.704828, 41.322463 ], [ -74.704959, 41.322500 ], [ -74.707559, 41.324385 ], [ -74.707664, 41.324176 ], [ -75.083144, 40.574099 ], [ -74.865631, 40.299169 ], [ -75.443887, 39.878637 ], [ -75.611050, 39.756860 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 90, "LEFT_FID": 12, "RIGHT_FID": 10, "Shape_Leng": 493441.355068, "LEFT": "US-IN", "RIGHT": "US-IL" }, "geometry": { "type": "LineString", "coordinates": [ [ -87.474219, 41.831404 ], [ -87.469689, 39.016062 ], [ -87.469729, 39.015999 ], [ -88.488752, 37.401155 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 92, "LEFT_FID": 44, "RIGHT_FID": 12, "Shape_Leng": 161391.699300, "LEFT": "US-MI", "RIGHT": "US-IN" }, "geometry": { "type": "LineString", "coordinates": [ [ -86.830151, 41.831404 ], [ -84.779894, 41.831404 ], [ -84.779815, 41.831404 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 93, "LEFT_FID": 24, "RIGHT_FID": 12, "Shape_Leng": 294791.308600, "LEFT": "US-OH", "RIGHT": "US-IN" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.779815, 41.831404 ], [ -84.779815, 39.100149 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 94, "LEFT_FID": 44, "RIGHT_FID": 24, "Shape_Leng": 111733.615639, "LEFT": "US-MI", "RIGHT": "US-OH" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.779815, 41.831404 ], [ -83.687526, 41.831404 ], [ -83.687211, 41.831404 ], [ -83.380008, 41.750661 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 96, "LEFT_FID": 24, "RIGHT_FID": 22, "Shape_Leng": 139191.503900, "LEFT": "US-OH", "RIGHT": "US-PA" }, "geometry": { "type": "LineString", "coordinates": [ [ -80.524262, 40.630072 ], [ -80.524262, 41.913014 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 98, "LEFT_FID": 35, "RIGHT_FID": 34, "Shape_Leng": 342949.609400, "LEFT": "US-CA", "RIGHT": "US-OR" }, "geometry": { "type": "LineString", "coordinates": [ [ -119.989167, 42.017417 ], [ -119.989443, 42.017417 ], [ -124.346032, 42.017417 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 99, "LEFT_FID": 39, "RIGHT_FID": 35, "Shape_Leng": 938955.025923, "LEFT": "US-NV", "RIGHT": "US-CA" }, "geometry": { "type": "LineString", "coordinates": [ [ -119.989167, 42.017417 ], [ -119.989167, 38.997564 ], [ -114.483646, 34.895650 ], [ -114.482859, 34.895056 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 100, "LEFT_FID": 39, "RIGHT_FID": 34, "Shape_Leng": 240639.575200, "LEFT": "US-NV", "RIGHT": "US-OR" }, "geometry": { "type": "LineString", "coordinates": [ [ -116.932059, 42.017417 ], [ -119.989167, 42.017417 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 101, "LEFT_FID": 40, "RIGHT_FID": 39, "Shape_Leng": 230277.417000, "LEFT": "US-ID", "RIGHT": "US-NV" }, "geometry": { "type": "LineString", "coordinates": [ [ -116.932059, 42.017417 ], [ -114.006868, 42.017417 ], [ -114.006592, 42.017417 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 102, "LEFT_FID": 39, "RIGHT_FID": 1, "Shape_Leng": 538178.002900, "LEFT": "US-NV", "RIGHT": "US-UT" }, "geometry": { "type": "LineString", "coordinates": [ [ -114.006592, 37.001577 ], [ -114.006592, 42.017417 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 103, "LEFT_FID": 40, "RIGHT_FID": 1, "Shape_Leng": 232866.406200, "LEFT": "US-ID", "RIGHT": "US-UT" }, "geometry": { "type": "LineString", "coordinates": [ [ -114.006592, 42.017417 ], [ -111.048235, 42.017417 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 104, "LEFT_FID": 3, "RIGHT_FID": 1, "Shape_Leng": 263909.472700, "LEFT": "US-WY", "RIGHT": "US-UT" }, "geometry": { "type": "LineString", "coordinates": [ [ -111.048235, 42.017417 ], [ -111.048235, 41.041404 ], [ -111.047841, 41.041404 ], [ -109.043040, 41.041404 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 105, "LEFT_FID": 47, "RIGHT_FID": 30, "Shape_Leng": 122895.747304, "LEFT": "US-NY", "RIGHT": "US-CT" }, "geometry": { "type": "LineString", "coordinates": [ [ -73.858455, 41.084138 ], [ -73.364827, 41.442329 ], [ -73.364827, 42.066578 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 106, "LEFT_FID": 30, "RIGHT_FID": 28, "Shape_Leng": 121031.372100, "LEFT": "US-CT", "RIGHT": "US-MA" }, "geometry": { "type": "LineString", "coordinates": [ [ -71.827233, 42.066578 ], [ -73.364000, 42.066578 ], [ -73.364827, 42.066578 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 107, "LEFT_FID": 31, "RIGHT_FID": 30, "Shape_Leng": 86931.127900, "LEFT": "US-RI", "RIGHT": "US-CT" }, "geometry": { "type": "LineString", "coordinates": [ [ -71.827233, 42.066578 ], [ -71.827233, 41.267408 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 108, "LEFT_FID": 31, "RIGHT_FID": 28, "Shape_Leng": 108236.444150, "LEFT": "US-RI", "RIGHT": "US-MA" }, "geometry": { "type": "LineString", "coordinates": [ [ -70.893844, 41.513622 ], [ -71.335132, 42.066578 ], [ -71.335920, 42.066578 ], [ -71.827233, 42.066578 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 111, "LEFT_FID": 47, "RIGHT_FID": 22, "Shape_Leng": 476177.384838, "LEFT": "US-NY", "RIGHT": "US-PA" }, "geometry": { "type": "LineString", "coordinates": [ [ -79.794283, 42.439317 ], [ -79.794283, 42.045852 ], [ -75.704641, 42.045852 ], [ -75.704326, 42.045625 ], [ -75.704287, 42.045625 ], [ -74.707165, 41.324185 ], [ -74.704828, 41.322463 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 113, "LEFT_FID": 10, "RIGHT_FID": 9, "Shape_Leng": 257848.143468, "LEFT": "US-IL", "RIGHT": "US-IA" }, "geometry": { "type": "LineString", "coordinates": [ [ -90.635869, 42.629300 ], [ -90.635593, 42.629101 ], [ -90.296405, 42.385060 ], [ -90.296405, 41.602648 ], [ -90.894662, 41.168919 ], [ -91.190876, 40.576941 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 114, "LEFT_FID": 11, "RIGHT_FID": 10, "Shape_Leng": 220572.583000, "LEFT": "US-WI", "RIGHT": "US-IL" }, "geometry": { "type": "LineString", "coordinates": [ [ -90.635869, 42.629300 ], [ -90.635121, 42.629300 ], [ -87.833694, 42.629300 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 116, "LEFT_FID": 9, "RIGHT_FID": 8, "Shape_Leng": 244510.721765, "LEFT": "US-IA", "RIGHT": "US-NE" }, "geometry": { "type": "LineString", "coordinates": [ [ -96.660355, 42.689638 ], [ -95.940574, 41.261337 ], [ -95.598082, 40.576941 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 117, "LEFT_FID": 47, "RIGHT_FID": 28, "Shape_Leng": 77027.856400, "LEFT": "US-NY", "RIGHT": "US-MA" }, "geometry": { "type": "LineString", "coordinates": [ [ -73.364827, 42.066578 ], [ -73.364827, 42.771144 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 118, "LEFT_FID": 29, "RIGHT_FID": 28, "Shape_Leng": 65.112400, "LEFT": "US-VT", "RIGHT": "US-MA" }, "geometry": { "type": "LineString", "coordinates": [ [ -73.364827, 42.771144 ], [ -73.364000, 42.771144 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 119, "LEFT_FID": 29, "RIGHT_FID": 28, "Shape_Leng": 59897.064800, "LEFT": "US-VT", "RIGHT": "US-MA" }, "geometry": { "type": "LineString", "coordinates": [ [ -73.364000, 42.771144 ], [ -72.841254, 42.771144 ], [ -72.603258, 42.771144 ], [ -72.603062, 42.771144 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 120, "LEFT_FID": 46, "RIGHT_FID": 28, "Shape_Leng": 135132.891520, "LEFT": "US-NH", "RIGHT": "US-MA" }, "geometry": { "type": "LineString", "coordinates": [ [ -72.603062, 42.771144 ], [ -70.886675, 42.771229 ], [ -70.886321, 42.771229 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 122, "LEFT_FID": 8, "RIGHT_FID": 3, "Shape_Leng": 223471.630800, "LEFT": "US-NE", "RIGHT": "US-WY" }, "geometry": { "type": "LineString", "coordinates": [ [ -104.051797, 43.090280 ], [ -104.051797, 43.090054 ], [ -104.051797, 41.041404 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 123, "LEFT_FID": 8, "RIGHT_FID": 4, "Shape_Leng": 589568.446352, "LEFT": "US-NE", "RIGHT": "US-SD" }, "geometry": { "type": "LineString", "coordinates": [ [ -96.660355, 42.689638 ], [ -96.660985, 42.689803 ], [ -98.193104, 43.090280 ], [ -104.051797, 43.090280 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 125, "LEFT_FID": 9, "RIGHT_FID": 4, "Shape_Leng": 92961.767600, "LEFT": "US-IA", "RIGHT": "US-SD" }, "geometry": { "type": "LineString", "coordinates": [ [ -96.660355, 43.535926 ], [ -96.660355, 43.535729 ], [ -96.660355, 42.689638 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 126, "LEFT_FID": 43, "RIGHT_FID": 9, "Shape_Leng": 424991.113300, "LEFT": "US-MN", "RIGHT": "US-IA" }, "geometry": { "type": "LineString", "coordinates": [ [ -96.660355, 43.535926 ], [ -91.261227, 43.535926 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 127, "LEFT_FID": 11, "RIGHT_FID": 9, "Shape_Leng": 120006.471058, "LEFT": "US-WI", "RIGHT": "US-IA" }, "geometry": { "type": "LineString", "coordinates": [ [ -91.261227, 43.535926 ], [ -91.261228, 43.535729 ], [ -91.263157, 43.080088 ], [ -90.949263, 42.854688 ], [ -90.635869, 42.629300 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 131, "LEFT_FID": 40, "RIGHT_FID": 3, "Shape_Leng": 274423.559600, "LEFT": "US-ID", "RIGHT": "US-WY" }, "geometry": { "type": "LineString", "coordinates": [ [ -111.048235, 42.017417 ], [ -111.048235, 42.017673 ], [ -111.048235, 44.512738 ], [ -111.048235, 44.512906 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 132, "LEFT_FID": 49, "RIGHT_FID": 3, "Shape_Leng": 602487.255900, "LEFT": "US-MT", "RIGHT": "US-WY" }, "geometry": { "type": "LineString", "coordinates": [ [ -111.048235, 44.512906 ], [ -111.048235, 44.978764 ], [ -104.052073, 44.978764 ], [ -104.051797, 44.978764 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 133, "LEFT_FID": 4, "RIGHT_FID": 3, "Shape_Leng": 208787.255900, "LEFT": "US-SD", "RIGHT": "US-WY" }, "geometry": { "type": "LineString", "coordinates": [ [ -104.051797, 44.978764 ], [ -104.051797, 43.090280 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 136, "LEFT_FID": 47, "RIGHT_FID": 29, "Shape_Leng": 245777.246100, "LEFT": "US-NY", "RIGHT": "US-VT" }, "geometry": { "type": "LineString", "coordinates": [ [ -73.364827, 42.771144 ], [ -73.364827, 44.996229 ], [ -73.364827, 44.996536 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 138, "LEFT_FID": 46, "RIGHT_FID": 29, "Shape_Leng": 261553.677151, "LEFT": "US-NH", "RIGHT": "US-VT" }, "geometry": { "type": "LineString", "coordinates": [ [ -71.466498, 44.996536 ], [ -71.466656, 44.996229 ], [ -71.659660, 44.620788 ], [ -72.603062, 42.771144 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 139, "LEFT_FID": 40, "RIGHT_FID": 34, "Shape_Leng": 354000.561898, "LEFT": "US-ID", "RIGHT": "US-OR" }, "geometry": { "type": "LineString", "coordinates": [ [ -116.575145, 45.184003 ], [ -116.737429, 44.868669 ], [ -116.932059, 44.489537 ], [ -116.932059, 42.017673 ], [ -116.932059, 42.017417 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 142, "LEFT_FID": 46, "RIGHT_FID": 32, "Shape_Leng": 281430.883800, "LEFT": "US-NH", "RIGHT": "US-ME" }, "geometry": { "type": "LineString", "coordinates": [ [ -70.886321, 42.771229 ], [ -70.886321, 45.316538 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 145, "LEFT_FID": 43, "RIGHT_FID": 4, "Shape_Leng": 240597.646741, "LEFT": "US-MN", "RIGHT": "US-SD" }, "geometry": { "type": "LineString", "coordinates": [ [ -96.810747, 45.684388 ], [ -96.660355, 45.393937 ], [ -96.660355, 43.535926 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 148, "LEFT_FID": 34, "RIGHT_FID": 33, "Shape_Leng": 583589.184600, "LEFT": "US-OR", "RIGHT": "US-WA" }, "geometry": { "type": "LineString", "coordinates": [ [ -116.932059, 45.835043 ], [ -124.346032, 45.835043 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 149, "LEFT_FID": 40, "RIGHT_FID": 34, "Shape_Leng": 77979.597167, "LEFT": "US-ID", "RIGHT": "US-OR" }, "geometry": { "type": "LineString", "coordinates": [ [ -116.932059, 45.835043 ], [ -116.931980, 45.834900 ], [ -116.575145, 45.184003 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 151, "LEFT_FID": 49, "RIGHT_FID": 4, "Shape_Leng": 111199.414100, "LEFT": "US-MT", "RIGHT": "US-SD" }, "geometry": { "type": "LineString", "coordinates": [ [ -104.051797, 44.978764 ], [ -104.051797, 45.973916 ], [ -104.051797, 45.974221 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 152, "LEFT_FID": 4, "RIGHT_FID": 2, "Shape_Leng": 581766.040000, "LEFT": "US-SD", "RIGHT": "US-ND" }, "geometry": { "type": "LineString", "coordinates": [ [ -96.660985, 45.974221 ], [ -104.051797, 45.974221 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 153, "LEFT_FID": 4, "RIGHT_FID": 2, "Shape_Leng": 49.609400, "LEFT": "US-SD", "RIGHT": "US-ND" }, "geometry": { "type": "LineString", "coordinates": [ [ -96.660355, 45.974221 ], [ -96.660985, 45.974221 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 154, "LEFT_FID": 43, "RIGHT_FID": 4, "Shape_Leng": 34551.308841, "LEFT": "US-MN", "RIGHT": "US-SD" }, "geometry": { "type": "LineString", "coordinates": [ [ -96.660355, 45.974221 ], [ -96.810747, 45.684388 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 156, "LEFT_FID": 49, "RIGHT_FID": 40, "Shape_Leng": 361283.166732, "LEFT": "US-MT", "RIGHT": "US-ID" }, "geometry": { "type": "LineString", "coordinates": [ [ -114.766822, 45.997338 ], [ -112.663585, 44.512906 ], [ -111.048235, 44.512906 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 157, "LEFT_FID": 61, "RIGHT_FID": 60, "Shape_Leng": 22697.509967, "LEFT": "CA-NS", "RIGHT": "CA-NB" }, "geometry": { "type": "LineString", "coordinates": [ [ -64.031175, 46.019208 ], [ -64.302219, 45.950131 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 159, "LEFT_FID": 43, "RIGHT_FID": 11, "Shape_Leng": 394841.476025, "LEFT": "US-MN", "RIGHT": "US-WI" }, "geometry": { "type": "LineString", "coordinates": [ [ -91.261227, 43.535926 ], [ -91.243383, 43.535926 ], [ -91.243147, 43.535926 ], [ -93.005659, 44.789679 ], [ -92.823613, 45.143372 ], [ -92.148608, 46.446902 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 160, "LEFT_FID": 44, "RIGHT_FID": 11, "Shape_Leng": 299520.619548, "LEFT": "US-MI", "RIGHT": "US-WI" }, "geometry": { "type": "LineString", "coordinates": [ [ -90.655879, 46.693181 ], [ -88.275925, 46.086510 ], [ -87.854866, 45.978892 ], [ -87.854334, 45.978756 ], [ -87.572301, 45.434424 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 174, "LEFT_FID": 40, "RIGHT_FID": 33, "Shape_Leng": 363605.712900, "LEFT": "US-ID", "RIGHT": "US-WA" }, "geometry": { "type": "LineString", "coordinates": [ [ -116.932059, 49.042245 ], [ -116.932059, 45.835043 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 177, "LEFT_FID": 40, "RIGHT_FID": 33, "Shape_Leng": 21.704100, "LEFT": "US-ID", "RIGHT": "US-WA" }, "geometry": { "type": "LineString", "coordinates": [ [ -116.932059, 49.042434 ], [ -116.932059, 49.042245 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 179, "LEFT_FID": 49, "RIGHT_FID": 40, "Shape_Leng": 362710.381844, "LEFT": "US-MT", "RIGHT": "US-ID" }, "geometry": { "type": "LineString", "coordinates": [ [ -116.011117, 49.042434 ], [ -116.011117, 49.042245 ], [ -116.011117, 48.375530 ], [ -114.766822, 45.997338 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 183, "LEFT_FID": 49, "RIGHT_FID": 2, "Shape_Leng": 348031.469700, "LEFT": "US-MT", "RIGHT": "US-ND" }, "geometry": { "type": "LineString", "coordinates": [ [ -104.051797, 45.974221 ], [ -104.051797, 49.042245 ], [ -104.051797, 49.042434 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 186, "LEFT_FID": 43, "RIGHT_FID": 2, "Shape_Leng": 361378.127883, "LEFT": "US-MN", "RIGHT": "US-ND" }, "geometry": { "type": "LineString", "coordinates": [ [ -97.621987, 49.042434 ], [ -97.621886, 49.042245 ], [ -97.501234, 48.814722 ], [ -96.660355, 47.217635 ], [ -96.660355, 45.974221 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 193, "LEFT_FID": 53, "RIGHT_FID": 45, "Shape_Leng": 1056222.961160, "LEFT": "CA-QC", "RIGHT": "CA-ON" }, "geometry": { "type": "LineString", "coordinates": [ [ -79.518749, 51.745679 ], [ -79.518749, 51.745363 ], [ -79.518749, 47.436498 ], [ -79.518395, 47.436252 ], [ -76.926996, 45.624900 ], [ -74.377115, 45.624900 ], [ -74.377115, 44.996814 ], [ -74.377115, 44.996536 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 198, "LEFT_FID": 45, "RIGHT_FID": 42, "Shape_Leng": 1136268.353390, "LEFT": "CA-ON", "RIGHT": "CA-MB" }, "geometry": { "type": "LineString", "coordinates": [ [ -88.968878, 56.903603 ], [ -88.968881, 56.903601 ], [ -95.201856, 52.836956 ], [ -95.201856, 49.042434 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 202, "LEFT_FID": 53, "RIGHT_FID": 51, "Shape_Leng": 2020550.924770, "LEFT": "CA-QC", "RIGHT": "CA-NL" }, "geometry": { "type": "LineString", "coordinates": [ [ -57.206439, 51.297736 ], [ -57.206439, 51.297869 ], [ -57.206439, 51.919145 ], [ -65.370361, 51.919145 ], [ -67.489118, 53.329896 ], [ -67.489118, 54.870494 ], [ -63.487828, 54.870494 ], [ -63.487828, 59.491758 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 204, "LEFT_FID": 48, "RIGHT_FID": 41, "Shape_Leng": 1539125.895990, "LEFT": "CA-AB", "RIGHT": "CA-BC" }, "geometry": { "type": "LineString", "coordinates": [ [ -120.193090, 60.011948 ], [ -120.193090, 53.546587 ], [ -120.192736, 53.546352 ], [ -113.500626, 49.042434 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 206, "LEFT_FID": 54, "RIGHT_FID": 41, "Shape_Leng": 1462633.203100, "LEFT": "CA-NT", "RIGHT": "CA-BC" }, "geometry": { "type": "LineString", "coordinates": [ [ -138.774524, 60.012315 ], [ -138.774287, 60.012315 ], [ -120.193090, 60.012315 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 207, "LEFT_FID": 48, "RIGHT_FID": 41, "Shape_Leng": 46.508800, "LEFT": "CA-AB", "RIGHT": "CA-BC" }, "geometry": { "type": "LineString", "coordinates": [ [ -120.193090, 60.012315 ], [ -120.193090, 60.011948 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 208, "LEFT_FID": 54, "RIGHT_FID": 48, "Shape_Leng": 801216.210900, "LEFT": "CA-NT", "RIGHT": "CA-AB" }, "geometry": { "type": "LineString", "coordinates": [ [ -120.193090, 60.012315 ], [ -110.014362, 60.012315 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 209, "LEFT_FID": 50, "RIGHT_FID": 48, "Shape_Leng": 1320951.928700, "LEFT": "CA-SK", "RIGHT": "CA-AB" }, "geometry": { "type": "LineString", "coordinates": [ [ -110.014362, 60.012315 ], [ -110.014362, 60.011948 ], [ -110.014362, 49.042434 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 210, "LEFT_FID": 54, "RIGHT_FID": 50, "Shape_Leng": 647957.348700, "LEFT": "CA-NT", "RIGHT": "CA-SK" }, "geometry": { "type": "LineString", "coordinates": [ [ -110.014362, 60.012315 ], [ -101.782807, 60.012315 ], [ -101.782649, 60.012315 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 211, "LEFT_FID": 50, "RIGHT_FID": 42, "Shape_Leng": 1320951.928700, "LEFT": "CA-SK", "RIGHT": "CA-MB" }, "geometry": { "type": "LineString", "coordinates": [ [ -101.782649, 49.042434 ], [ -101.782649, 60.011948 ], [ -101.782649, 60.012315 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 212, "LEFT_FID": 42, "RIGHT_FID": 0, "Shape_Leng": 556716.406200, "LEFT": "CA-MB", "RIGHT": "CA-NU" }, "geometry": { "type": "LineString", "coordinates": [ [ -94.710070, 60.012315 ], [ -94.710346, 60.012315 ], [ -101.782649, 60.012315 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 218, "LEFT_FID": 54, "RIGHT_FID": 0, "Shape_Leng": 2319067.708810, "LEFT": "CA-NT", "RIGHT": "CA-NU" }, "geometry": { "type": "LineString", "coordinates": [ [ -101.782649, 60.012315 ], [ -101.782847, 60.223130 ], [ -101.783319, 60.725798 ], [ -101.783319, 60.867037 ], [ -101.783319, 60.881303 ], [ -101.783379, 60.949002 ], [ -101.786549, 64.439117 ], [ -120.801668, 68.450563 ], [ -120.801668, 69.538884 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 221, "LEFT_FID": 54, "RIGHT_FID": 0, "Shape_Leng": 571124.829100, "LEFT": "CA-NT", "RIGHT": "CA-NU" }, "geometry": { "type": "LineString", "coordinates": [ [ -117.335414, 69.897416 ], [ -110.079789, 69.897416 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 226, "LEFT_FID": 54, "RIGHT_FID": 0, "Shape_Leng": 371980.395400, "LEFT": "CA-NT", "RIGHT": "CA-NU" }, "geometry": { "type": "LineString", "coordinates": [ [ -110.079789, 69.897416 ], [ -110.079513, 69.897416 ], [ -110.079513, 72.485516 ] ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 234, "LEFT_FID": 54, "RIGHT_FID": 0, "Shape_Leng": 268423.925800, "LEFT": "CA-NT", "RIGHT": "CA-NU" }, "geometry": { "type": "LineString", "coordinates": [ [ -110.038863, 74.790503 ], [ -110.038863, 76.552476 ] ] } }
+
+]
+}
