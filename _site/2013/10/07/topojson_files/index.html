@@ -16,6 +16,7 @@
 			<li><a href="/">Home</a></li>
 			<li><a href="/blog">Updates</a></li>
 			<li><a href="/about">About</a></li>
+			<li><a href="/feed">RSS</a></li>
 		</ul>
 	</nav>
 </header>
@@ -28,7 +29,7 @@
 
 <blockquote><p>TopoJSON is an extension of GeoJSON that encodes topology. Rather than representing geometries discretely, geometries in TopoJSON files are stitched together from shared line segments called arcs. TopoJSON eliminates redundancy, offering much more compact representations of geometry than with GeoJSON; typical TopoJSON files are 80% smaller than their GeoJSON equivalents.</p></blockquote>
 
-<p>So, TopoJSON files are smaller, which is great! Most people will use these files in accordance with the <a href="http://d3js.org">d3.js</a> visualization library. See an example of Project Linework TopoJSONs in action.</p>
+<p>So, TopoJSON files are smaller, which is great! Most people will use these files in accordance with the <a href="http://d3js.org">d3.js</a> visualization library. See an <a href="http://bl.ocks.org/svmatthews/6220895">example</a> of Project Linework TopoJSONs in action.</p>
 
 <p>With this simplification process, it is important to understand your own map and needs. Project Linework's TopoJSON files are all <a href="https://github.com/mbostock/topojson/wiki/Command-Line-Reference#quantization">quantized</a> at <strong>magnitude of 1e5</strong> so the map can render at full detail in greater zoom levels. If you do not plan to make use of portions of your data at high zoom levels, look into <a href="https://github.com/mbostock/topojson/wiki/Installation">installing</a> and <a href="https://github.com/mbostock/topojson/wiki/Command-Line-Reference">converting</a> to TopoJSON at lower quantization levels to reduce file size.</p>
 
@@ -39,8 +40,20 @@
 	<div class="wrapper">
 		<p>Project Linework is released to the public domain.</p>
 		<p>Please credit the author and the project wherever possible.</p>
+		<p>Please <a href="https://github.com/svmatthews/project-linework/issues">report problems</a> on github</p>
 		<p><strong>Happy mapping!</strong></p>
 	</div>
 </footer>
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-45210096-1', 'projectlinework.org');
+  ga('send', 'pageview');
+</script> <!-- end Google Analytics -->
 </body>
 </html>
