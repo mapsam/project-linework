@@ -26,10 +26,10 @@ title: Project Linework
 					</div>
 					<div class="downloads">
 						<ul>Downloads:
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/elmer-casual/elmer-casual-shp.zip" target="_blank">Shapefile</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/elmer-casual/elmer-casual-geojson.zip" target="_blank">GeoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/elmer-casual/elmer-casual-topojson.zip" target="_blank">TopoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/elmer-casual/elmer-casual-ai.zip" target="_blank">Adobe Illustrator</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/elmer-casual/elmer-casual-shp.zip">Shapefile</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/elmer-casual/elmer-casual-geojson.zip">GeoJSON</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/elmer-casual/elmer-casual-topojson.zip">TopoJSON</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/elmer-casual/elmer-casual-ai.zip">Adobe Illustrator</a></li>
 						</ul>
 					</div>
 				</div>
@@ -49,10 +49,10 @@ title: Project Linework
 					</div>
 					<div class="downloads">
 						<ul>Downloads:
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/charmingly-inaccurate/charmingly-inaccurate-shp.zip" target="_blank">Shapefile</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/charmingly-inaccurate/charmingly-inaccurate-geojson.zip" target="_blank">GeoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/charmingly-inaccurate/charmingly-inaccurate-topojson.zip" target="_blank">TopoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/charmingly-inaccurate/charmingly-inaccurate-ai.zip" target="_blank">Adobe Illustrator</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/charmingly-inaccurate/charmingly-inaccurate-shp.zip">Shapefile</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/charmingly-inaccurate/charmingly-inaccurate-geojson.zip">GeoJSON</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/charmingly-inaccurate/charmingly-inaccurate-topojson.zip">TopoJSON</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/charmingly-inaccurate/charmingly-inaccurate-ai.zip">Adobe Illustrator</a></li>
 						</ul>
 					</div>
 				</div>
@@ -72,10 +72,10 @@ title: Project Linework
 					</div>
 					<div class="downloads">
 						<ul>Downloads:
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/geo-metro/geo-metro-shp.zip" target="_blank">Shapefile</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/geo-metro/geo-metro-geojson.zip" target="_blank">GeoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/geo-metro/geo-metro-topojson.zip" target="_blank">TopoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/geo-metro/geo-metro-ai.zip" target="_blank">Adobe Illustrator</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/geo-metro/geo-metro-shp.zip">Shapefile</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/geo-metro/geo-metro-geojson.zip">GeoJSON</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/geo-metro/geo-metro-topojson.zip">TopoJSON</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/geo-metro/geo-metro-ai.zip">Adobe Illustrator</a></li>
 						</ul>
 					</div>
 				</div>
@@ -95,10 +95,10 @@ title: Project Linework
 					</div>
 					<div class="downloads">
 						<ul>Downloads:
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/liana/liana-shp.zip" target="_blank">Shapefile</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/liana/liana-geojson.zip" target="_blank">GeoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/liana/liana-topojson.zip" target="_blank">TopoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/liana/liana-ai.zip" target="_blank">Adobe Illustrator</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/liana/liana-shp.zip">Shapefile</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/liana/liana-geojson.zip">GeoJSON</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/liana/liana-topojson.zip">TopoJSON</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/liana/liana-ai.zip">Adobe Illustrator</a></li>
 						</ul>
 					</div>
 				</div>
@@ -118,10 +118,10 @@ title: Project Linework
 					</div>
 					<div class="downloads">
 						<ul>Downloads:
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/times-approximate/times-approximate-shp.zip" target="_blank">Shapefile</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/times-approximate/times-approximate-geojson.zip" target="_blank">GeoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/times-approximate/times-approximate-topojson.zip" target="_blank">TopoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/times-approximate/times-approximate-ai.zip" target="_blank">Adobe Illustrator</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/times-approximate/times-approximate-shp.zip">Shapefile</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/times-approximate/times-approximate-geojson.zip">GeoJSON</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/times-approximate/times-approximate-topojson.zip">TopoJSON</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/times-approximate/times-approximate-ai.zip">Adobe Illustrator</a></li>
 						</ul>
 					</div>
 				</div>
@@ -141,10 +141,10 @@ title: Project Linework
 					</div>
 					<div class="downloads">
 						<ul>Downloads:
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/twenty-seventy/twenty-seventy-shp.zip" target="_blank">Shapefile</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/twenty-seventy/twenty-seventy-geojson.zip" target="_blank">GeoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/twenty-seventy/twenty-seventy-topojson.zip" target="_blank">TopoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/twenty-seventy/twenty-seventy-ai.zip" target="_blank">Adobe Illustrator</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/twenty-seventy/twenty-seventy-shp.zip">Shapefile</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/twenty-seventy/twenty-seventy-geojson.zip">GeoJSON</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/twenty-seventy/twenty-seventy-topojson.zip">TopoJSON</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/twenty-seventy/twenty-seventy-ai.zip">Adobe Illustrator</a></li>
 						</ul>
 					</div>
 				</div>
@@ -164,10 +164,10 @@ title: Project Linework
 					</div>
 					<div class="downloads">
 						<ul>Downloads:
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/wargames/wargames-shp.zip" target="_blank">Shapefile</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/wargames/wargames-geojson.zip" target="_blank">GeoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/wargames/wargames-topojson.zip" target="_blank">TopoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/wargames/wargames-ai.zip" target="_blank">Adobe Illustrator</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/wargames/wargames-shp.zip">Shapefile</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/wargames/wargames-geojson.zip">GeoJSON</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/wargames/wargames-topojson.zip">TopoJSON</a></li>
+							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/wargames/wargames-ai.zip">Adobe Illustrator</a></li>
 						</ul>
 					</div>
 				</div>

@@ -13,8 +13,8 @@
 &lt;p&gt;The download packages are hosted by the &lt;a href=&quot;http://giscollective.org&quot;&gt;GISCollective&lt;/a&gt; and the website is running completely on &lt;a href=&quot;https://github.com/svmatthews/project-linework/tree/gh-pages&quot;&gt;Github pages&lt;/a&gt; with jekyll. The most up-to-date linework sets can also be &lt;a href=&quot;https://github.com/svmatthews/project-linework&quot;&gt;found on Github&lt;/a&gt;, but we urge you to download from the links on the website for fully-functioning data sets.&lt;/p&gt;
 </description>
 				<pubDate>Tue, 08 Oct 2013 00:00:00 -0700</pubDate>
-				<link>http://projectlinework.org//2013/10/08/how_the_website_is_made/</link>
-				<guid isPermaLink="true">http://projectlinework.org//2013/10/08/how_the_website_is_made/</guid>
+				<link>http://projectlinework.org//2013/10/08/how_the_website_is_made.html</link>
+				<guid isPermaLink="true">http://projectlinework.org//2013/10/08/how_the_website_is_made.html</guid>
 			</item>
 		
 			<item>
@@ -28,8 +28,8 @@
 &lt;p&gt;With this simplification process, it is important to understand your own map and needs. Project Linework&#39;s TopoJSON files are all &lt;a href=&quot;https://github.com/mbostock/topojson/wiki/Command-Line-Reference#quantization&quot;&gt;quantized&lt;/a&gt; at &lt;strong&gt;magnitude of 1e5&lt;/strong&gt; so the map can render at full detail in greater zoom levels. If you do not plan to make use of portions of your data at high zoom levels, look into &lt;a href=&quot;https://github.com/mbostock/topojson/wiki/Installation&quot;&gt;installing&lt;/a&gt; and &lt;a href=&quot;https://github.com/mbostock/topojson/wiki/Command-Line-Reference&quot;&gt;converting&lt;/a&gt; to TopoJSON at lower quantization levels to reduce file size.&lt;/p&gt;
 </description>
 				<pubDate>Mon, 07 Oct 2013 00:00:00 -0700</pubDate>
-				<link>http://projectlinework.org//2013/10/07/topojson_files/</link>
-				<guid isPermaLink="true">http://projectlinework.org//2013/10/07/topojson_files/</guid>
+				<link>http://projectlinework.org//2013/10/07/topojson_files.html</link>
+				<guid isPermaLink="true">http://projectlinework.org//2013/10/07/topojson_files.html</guid>
 			</item>
 		
 			<item>
@@ -48,8 +48,8 @@
 
 </description>
 				<pubDate>Fri, 04 Oct 2013 00:00:00 -0700</pubDate>
-				<link>http://projectlinework.org//2013/10/04/linework_released/</link>
-				<guid isPermaLink="true">http://projectlinework.org//2013/10/04/linework_released/</guid>
+				<link>http://projectlinework.org//2013/10/04/linework_released.html</link>
+				<guid isPermaLink="true">http://projectlinework.org//2013/10/04/linework_released.html</guid>
 			</item>
 		
 	</channel>

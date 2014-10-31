@@ -126,6 +126,9 @@ nav ul li a:hover {
 	width:900px;
 	margin:auto;
 }
+.wrapper.page {
+	width:650px;
+}
 a, a:hover {
 	text-decoration:none;
 }
