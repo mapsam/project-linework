@@ -10,6 +10,11 @@ Released to the public domain. Please credit the author and the project wherever
 
 REVISION HISTORY
 
+Version 1.2.1 — 07/20/2015
+-----------------------
+PDF compatible .ai files to place nicely with Inkscape
+
+
 Version 1.2 — 10/04/2013
 -----------------------
 ADMIN-0 POLY: Cleaned up topology in shapfiles
