@@ -22,7 +22,7 @@ Linework file types:
 * **Shapefiles**
 * **GeoJSON**: ogr2ogr .shp to .json
 * **Topojson**: quantization [magnitude of 1e5](http://www.projectlinework.org/2013/10/07/topojson_files/)
-* **Readme**
+* **Readme** (includes revision history)
 
 Geographic Data (not included in all sets):
 
