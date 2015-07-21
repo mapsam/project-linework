@@ -19,7 +19,7 @@ title: Project Linework
 					<h1>Elmer Casual</h1>
 				</div>
 				<div class="guide">
-					<a class="download" href="http://giscollective.s3.amazonaws.com/projectlinework/elmer-casual.zip">DOWNLOAD</a></strong>
+					<a class="download" href="https://giscollective.s3.amazonaws.com/projectlinework/elmer-casual.zip">DOWNLOAD</a></strong>
 					<div class="description">
 						<p>Elmer Casual is a hand drawn linework set for select parts of the world. It was originally created by tracing a new set of linework atop standard, geographically-accurate shapefiles pulled from Natural Earth. It lends personality to a map, giving things a unique, informal, handmade feeling. Given the loose nature of the lines, should reproject fairly well into your preferred coordinate system. Originally drawn on a Gall Stereographic projection.</p>
 						<p><strong>Author</strong>: Marty Elmer</p>
@@ -51,7 +51,7 @@ title: Project Linework
 					<h1>Geo-Metro</h1>
 				</div>
 				<div class="guide">
-					<a class="download" href="http://giscollective.s3.amazonaws.com/projectlinework/geo-metry.zip">DOWNLOAD</a></strong>
+					<a class="download" href="https://giscollective.s3.amazonaws.com/projectlinework/geo-metro.zip">DOWNLOAD</a></strong>
 					<div class="description">
 						<p>Geo-Metro is constructed entirely of straight lines and circular arcs, reducing areas to a simple geometry. The arcs won’t be perfect circles upon reprojecting (drawn with a Lambert Conformal Conic, parallels 20N/60N), but they should hold up pretty well under a little distortion. Really brings the shapes of the states and countries to people’s attention. Has a modern (or perhaps futuristic), technical, artificial feel.</p>
 						<p><strong>Author</strong>: Daniel P Huffman</p>
@@ -67,7 +67,7 @@ title: Project Linework
 					<h1>Liana</h1>
 				</div>
 				<div class="guide">
-					<a class="download" href="http://giscollective.s3.amazonaws.com/projectlinework/liana.zip">DOWNLOAD</a></strong>
+					<a class="download" href="https://giscollective.s3.amazonaws.com/projectlinework/liana.zip">DOWNLOAD</a></strong>
 					<div class="description">
 						<p>Calligraphy and arabesque ornamentation inspired this linework for North America and the US States. It is named after the infinite travels, loops, and tendrils of the woody vines known as lianas. It distinguishes itself by bringing elegance, fantasy, and visual movement to your map.</p>
 						<p><strong>Author</strong>: Sarah Bennett</p>
@@ -83,7 +83,7 @@ title: Project Linework
 					<h1>Times Approximate</h1>
 				</div>
 				<div class="guide">
-					<a class="download" href="http://giscollective.s3.amazonaws.com/projectlinework/times-approximate.zip">DOWNLOAD</a></strong>
+					<a class="download" href="https://giscollective.s3.amazonaws.com/projectlinework/times-approximate.zip">DOWNLOAD</a></strong>
 					<div class="description">
 						<p>Hand-drawn and pleasantly (but not severely) inaccurate, this set of linework calls back to newspaper maps of the pre-digital era. It’s smooth and casual, but authoritative. Can be used to fight dull neutrality in modern maps, or, with the right graphic techniques, can transport a map back to the previous century. Originally drawn on a Mercator projection; should retain its character well when reprojected into your favorite coordinate system.</p>
 						<p><strong>Editor</strong>: Daniel P Huffman</p>
@@ -99,7 +99,7 @@ title: Project Linework
 					<h1>Twenty Seventy</h1>
 				</div>
 				<div class="guide">
-					<a class="download" href="http://giscollective.s3.amazonaws.com/projectlinework/twenty-seventy.zip">DOWNLOAD</a></strong>
+					<a class="download" href="https://giscollective.s3.amazonaws.com/projectlinework/twenty-seventy.zip">DOWNLOAD</a></strong>
 					<div class="description">
 						<p>Named for its abundance of 20- and 70-degree lines, Twenty Seventy is all about being simple, clean, and angular. It has a decidedly technical and digital flavor, while still being functional and personable. Works best when kept in a cylindrical projection, such as Gall Stereographic or Web Mercator.</p>
 						<p><strong>Author</strong>: Marty Elmer</p>
@@ -115,7 +115,7 @@ title: Project Linework
 					<h1>Wargames</h1>
 				</div>
 				<div class="guide">
-					<a class="download" href="http://giscollective.s3.amazonaws.com/projectlinework/wargames.zip">DOWNLOAD</a></strong>
+					<a class="download" href="https://giscollective.s3.amazonaws.com/projectlinework/wargames.zip">DOWNLOAD</a></strong>
 					<div class="description">
 						<p>Inspired by the design of board game maps, Wargames is built on a field of hexagons. Besides its fun connotations, it can also be used to give a feeling of mathematical abstraction. Clean and simple, it's great for conveying to your audience the idea of data analysis and generalization.</p>
 						<p><strong>Author</strong>: Daniel P Huffman</p>
