@@ -35,7 +35,7 @@ title: Project Linework
 					<h1>charmingly inaccurate</h1>
 				</div>
 				<div class="guide">
-					<a class="download" href="http://giscollective.s3.amazonaws.com/projectlinework/charmingly-innacurate.zip">DOWNLOAD</a></strong>
+					<a class="download" href="https://giscollective.s3.amazonaws.com/projectlinework/charmingly-inaccurate.zip">DOWNLOAD</a></strong>
 					<div class="description">
 						<p>A caricature of the lower 48 United States, this linework set is recognizable and friendly, but not concerned with such stuffy notions as “cartographic accuracy.” It’s that friend you have who’s always embellishing his stories. You never mind his lying, though, because the exaggerations make things more fun. Go ahead, enjoy the story your map is telling.</p>
 						<p><strong>Editor</strong>: Daniel P Huffman</p>
