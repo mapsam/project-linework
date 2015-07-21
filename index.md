@@ -7,6 +7,7 @@ title: Project Linework
 	<img src="img/pl-logo-full.png">
 	<div id="intro-text">
 		<p>A library of handcrafted vector linework for cartography, each designed in a unique aesthetic style. They are meant to break us away from default line paths that we so often rely on by providing more visually-interesting alternatives.</p>
+		<p><small>Linework sets are available in the following formats: Shapefile, GeoJSON, TopoJSON, and Adobe Illustrator (PDF & Inkscape compatible)</small></p>
 	</div>
 </div>
 
@@ -18,19 +19,12 @@ title: Project Linework
 					<h1>Elmer Casual</h1>
 				</div>
 				<div class="guide">
+					<a class="download" href="http://giscollective.s3.amazonaws.com/projectlinework/elmer-casual.zip">DOWNLOAD</a></strong>
 					<div class="description">
 						<p>Elmer Casual is a hand drawn linework set for select parts of the world. It was originally created by tracing a new set of linework atop standard, geographically-accurate shapefiles pulled from Natural Earth. It lends personality to a map, giving things a unique, informal, handmade feeling. Given the loose nature of the lines, should reproject fairly well into your preferred coordinate system. Originally drawn on a Gall Stereographic projection.</p>
 						<p><strong>Author</strong>: Marty Elmer</p>
 						<p><strong>Coverage</strong>: Admin 0 (countries) for North America (except some far north islands, including Greenland), Europe (excludes Russia, and Asian part of Turkey), and Japan | Admin-1 (states/provinces) for United States, Canada, and Japan</p>
 						<p><strong>Version</strong>: 1.2</p>
-					</div>
-					<div class="downloads">
-						<ul>Downloads:
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/elmer-casual/elmer-casual-shp.zip">Shapefile</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/elmer-casual/elmer-casual-geojson.zip">GeoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/elmer-casual/elmer-casual-topojson.zip">TopoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/elmer-casual/elmer-casual-ai.zip">Adobe Illustrator</a></li>
-						</ul>
 					</div>
 				</div>
 			</div>
@@ -41,19 +35,12 @@ title: Project Linework
 					<h1>charmingly inaccurate</h1>
 				</div>
 				<div class="guide">
+					<a class="download" href="http://giscollective.s3.amazonaws.com/projectlinework/charmingly-innacurate.zip">DOWNLOAD</a></strong>
 					<div class="description">
 						<p>A caricature of the lower 48 United States, this linework set is recognizable and friendly, but not concerned with such stuffy notions as “cartographic accuracy.” It’s that friend you have who’s always embellishing his stories. You never mind his lying, though, because the exaggerations make things more fun. Go ahead, enjoy the story your map is telling.</p>
 						<p><strong>Editor</strong>: Daniel P Huffman</p>
 						<p><strong>Coverage</strong>: Admin-1 (states) for the lower 48 United States | Admin 0 (countries) for United States</p>
 						<p><strong>Version</strong>: 1.1</p>
-					</div>
-					<div class="downloads">
-						<ul>Downloads:
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/charmingly-inaccurate/charmingly-inaccurate-shp.zip">Shapefile</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/charmingly-inaccurate/charmingly-inaccurate-geojson.zip">GeoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/charmingly-inaccurate/charmingly-inaccurate-topojson.zip">TopoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/charmingly-inaccurate/charmingly-inaccurate-ai.zip">Adobe Illustrator</a></li>
-						</ul>
 					</div>
 				</div>
 			</div>
@@ -64,19 +51,12 @@ title: Project Linework
 					<h1>Geo-Metro</h1>
 				</div>
 				<div class="guide">
+					<a class="download" href="http://giscollective.s3.amazonaws.com/projectlinework/geo-metry.zip">DOWNLOAD</a></strong>
 					<div class="description">
 						<p>Geo-Metro is constructed entirely of straight lines and circular arcs, reducing areas to a simple geometry. The arcs won’t be perfect circles upon reprojecting (drawn with a Lambert Conformal Conic, parallels 20N/60N), but they should hold up pretty well under a little distortion. Really brings the shapes of the states and countries to people’s attention. Has a modern (or perhaps futuristic), technical, artificial feel.</p>
 						<p><strong>Author</strong>: Daniel P Huffman</p>
 						<p><strong>Coverage</strong>: North America only.  Coastline | Admin-0 (countries) | Admin-1 (states/provinces) for US, Canada | Large lakes | Major rivers</p>
 						<p><strong>Version</strong>: 1.1</p>
-					</div>
-					<div class="downloads">
-						<ul>Downloads:
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/geo-metro/geo-metro-shp.zip">Shapefile</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/geo-metro/geo-metro-geojson.zip">GeoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/geo-metro/geo-metro-topojson.zip">TopoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/geo-metro/geo-metro-ai.zip">Adobe Illustrator</a></li>
-						</ul>
 					</div>
 				</div>
 			</div>
@@ -87,19 +67,12 @@ title: Project Linework
 					<h1>Liana</h1>
 				</div>
 				<div class="guide">
+					<a class="download" href="http://giscollective.s3.amazonaws.com/projectlinework/liana.zip">DOWNLOAD</a></strong>
 					<div class="description">
 						<p>Calligraphy and arabesque ornamentation inspired this linework for North America and the US States. It is named after the infinite travels, loops, and tendrils of the woody vines known as lianas. It distinguishes itself by bringing elegance, fantasy, and visual movement to your map.</p>
 						<p><strong>Author</strong>: Sarah Bennett</p>
 						<p><strong>Coverage</strong>: North America only.  Coastline | Admin-0 (countries) | Admin-1 (states/provinces) for United States | Large lakes</p>
 						<p><strong>Version</strong>: 1.1</p>
-					</div>
-					<div class="downloads">
-						<ul>Downloads:
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/liana/liana-shp.zip">Shapefile</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/liana/liana-geojson.zip">GeoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/liana/liana-topojson.zip">TopoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/liana/liana-ai.zip">Adobe Illustrator</a></li>
-						</ul>
 					</div>
 				</div>
 			</div>
@@ -110,19 +83,12 @@ title: Project Linework
 					<h1>Times Approximate</h1>
 				</div>
 				<div class="guide">
+					<a class="download" href="http://giscollective.s3.amazonaws.com/projectlinework/times-approximate.zip">DOWNLOAD</a></strong>
 					<div class="description">
 						<p>Hand-drawn and pleasantly (but not severely) inaccurate, this set of linework calls back to newspaper maps of the pre-digital era. It’s smooth and casual, but authoritative. Can be used to fight dull neutrality in modern maps, or, with the right graphic techniques, can transport a map back to the previous century. Originally drawn on a Mercator projection; should retain its character well when reprojected into your favorite coordinate system.</p>
 						<p><strong>Editor</strong>: Daniel P Huffman</p>
 						<p><strong>Coverage</strong>: Admin-1 (states/provinces) for the lower 48 United States | Admin 0 (countries) for United States, parts of Mexico and Canada</p>
 						<p><strong>Version</strong>: 1.1</p>
-					</div>
-					<div class="downloads">
-						<ul>Downloads:
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/times-approximate/times-approximate-shp.zip">Shapefile</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/times-approximate/times-approximate-geojson.zip">GeoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/times-approximate/times-approximate-topojson.zip">TopoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/times-approximate/times-approximate-ai.zip">Adobe Illustrator</a></li>
-						</ul>
 					</div>
 				</div>
 			</div>
@@ -133,19 +99,12 @@ title: Project Linework
 					<h1>Twenty Seventy</h1>
 				</div>
 				<div class="guide">
+					<a class="download" href="http://giscollective.s3.amazonaws.com/projectlinework/twenty-seventy.zip">DOWNLOAD</a></strong>
 					<div class="description">
 						<p>Named for its abundance of 20- and 70-degree lines, Twenty Seventy is all about being simple, clean, and angular. It has a decidedly technical and digital flavor, while still being functional and personable. Works best when kept in a cylindrical projection, such as Gall Stereographic or Web Mercator.</p>
 						<p><strong>Author</strong>: Marty Elmer</p>
 						<p><strong>Coverage</strong>: North America only, excluding some arctic islands.  Admin-0 (countries) | Admin-1 (states/provinces) for United States, Canada</p>
 						<p><strong>Version</strong>: 1.1</p>
-					</div>
-					<div class="downloads">
-						<ul>Downloads:
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/twenty-seventy/twenty-seventy-shp.zip">Shapefile</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/twenty-seventy/twenty-seventy-geojson.zip">GeoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/twenty-seventy/twenty-seventy-topojson.zip">TopoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/twenty-seventy/twenty-seventy-ai.zip">Adobe Illustrator</a></li>
-						</ul>
 					</div>
 				</div>
 			</div>
@@ -156,19 +115,12 @@ title: Project Linework
 					<h1>Wargames</h1>
 				</div>
 				<div class="guide">
+					<a class="download" href="http://giscollective.s3.amazonaws.com/projectlinework/wargames.zip">DOWNLOAD</a></strong>
 					<div class="description">
 						<p>Inspired by the design of board game maps, Wargames is built on a field of hexagons. Besides its fun connotations, it can also be used to give a feeling of mathematical abstraction. Clean and simple, it's great for conveying to your audience the idea of data analysis and generalization.</p>
 						<p><strong>Author</strong>: Daniel P Huffman</p>
 						<p><strong>Coverage</strong>: Worldwide. Coastline | Admin 0 | Admin-1 (AUS BRA CAN CHN COD DEU ESP FRA IND ITA MDG MEX MLI RUS USA ZAF) | Major lakes</p>
 						<p><strong>Version</strong>: 1.0</p>
-					</div>
-					<div class="downloads">
-						<ul>Downloads:
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/wargames/wargames-shp.zip">Shapefile</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/wargames/wargames-geojson.zip">GeoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/wargames/wargames-topojson.zip">TopoJSON</a></li>
-							<li><a href="http://giscollective.s3.amazonaws.com/projectlinework/wargames/wargames-ai.zip">Adobe Illustrator</a></li>
-						</ul>
 					</div>
 				</div>
 			</div>
