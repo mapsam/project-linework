@@ -6,6 +6,8 @@ Linework drawn by Daniel P. Huffman
 
 Released to the public domain. Please credit the author and the project wherever possible.
 
+This linework is designed for use on a Lambert Conformal Conic projection, with standard parallels at 20º and 60º, and a -96º central meridian.
+
 
 
 REVISION HISTORY

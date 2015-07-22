@@ -6,6 +6,8 @@ Linework drawn by Martin E. Elmer
 
 Released to the public domain. Please credit the author and the project wherever possible.
 
+A Gall Stereographic projection is necessary for the line angles to remain at 20 and 70 degrees as intended.
+
 
 
 REVISION HISTORY

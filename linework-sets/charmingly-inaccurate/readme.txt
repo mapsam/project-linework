@@ -8,6 +8,8 @@ Traced, adjusted, and expanded by Daniel P. Huffman.
 
 Released to the public domain. Please credit the author and the project wherever possible.
 
+This linework appears to have been originally designed to fit on an Equidistant Conic projection, with standard parallels at 33º and 45º, and a -96º central meridian.
+
 The original map is included in this archive.
 
 -------
@@ -21,7 +23,6 @@ Adjustments to original linework include:
 
 4) Creation of line paths for areas which were missing on the original map: the IN-OH border, the Ohio border with Lake Erie.
 -------
-
 
 
 REVISION HISTORY
