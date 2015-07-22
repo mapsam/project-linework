@@ -6,6 +6,8 @@ Linework by Daniel P. Huffman.
 
 Released to the public domain. Please credit the author and the project wherever possible.
 
+A Gall Stereographic projection is necessary for the hexagon grid to remain regular.
+
 
 
 REVISION HISTORY

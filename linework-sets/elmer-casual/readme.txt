@@ -6,12 +6,13 @@ Linework drawn by Martin E. Elmer
 
 Released to the public domain. Please credit the author and the project wherever possible.
 
-
+Originally designed for use on a Gall Stereographic
+projection.
 
 REVISION HISTORY
 
 Version 1.3 - 10/04/2013
------------------------
+------------------------
 ADMIN-0 LINES: New shapefile and AI layer
 ADMIN-1 LINES: New shapefile and AI layer
 LAND: New shapefile and AI layer

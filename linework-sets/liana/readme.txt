@@ -6,6 +6,8 @@ Linework drawn by Sarah Bennett.
 
 Released to the public domain. Please credit the author and the project wherever possible.
 
+Originally designed for use on a Gall Stereographic projection.
+
 
 
 REVISION HISTORY

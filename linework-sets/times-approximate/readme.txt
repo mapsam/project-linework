@@ -8,6 +8,9 @@ Traced, adjusted, and expanded by Daniel P. Huffman.
 
 Released to the public domain. Please credit the author and the project wherever possible.
 
+This linework appears to have been originally designed
+for a Mercator projection.
+
 -------
 Adjustments vs original linework include a slight skewing to get it to better fit a Mercator projection (which seemed to be the closest match), and the addition of several new areas not drawn on the original map: Long Island, the VA-MD border in the Delmarva Peninsula, the District of Columbia, and portions of Canada and Mexico. The original map is included in this archive.
 -------
