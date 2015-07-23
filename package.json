@@ -1,0 +1,33 @@
+{
+  "name": "project-linework",
+  "version": "1.0.0",
+  "description": "Handcrafted vector linework for cartography",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mapsam/project-linework.git"
+  },
+  "keywords": [
+    "cartography",
+    "GIS",
+    "spatial",
+    "data",
+    "illustrator",
+    "shapefile",
+    "polygons"
+  ],
+  "author": "Sam Matthews <matthews.sam@gmail.com> (http://mapsam.com/)",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/mapsam/project-linework/issues"
+  },
+  "homepage": "https://github.com/mapsam/project-linework",
+  "dependencies": {
+    "archiver": "^0.14.4",
+    "aws-sdk": "^2.1.39",
+    "s3": "^4.4.0"
+  }
+}
