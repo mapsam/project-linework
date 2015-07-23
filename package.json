@@ -26,6 +26,8 @@
   },
   "homepage": "https://github.com/mapsam/project-linework",
   "dependencies": {
-    "archiver": "^0.14.4"
+    "archiver": "^0.14.4",
+    "aws-sdk": "^2.1.39",
+    "s3": "^4.4.0"
   }
 }
