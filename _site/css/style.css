@@ -84,7 +84,13 @@ nav ul li a:hover {
 header {
 	padding:120px 0 40px 0;
 	width:100%;
-	background: #71766F;
+	background-color: #71766F;
+	background-image: url(../img/pl-header.png);
+	background-position: center center;
+	-webkit-background-size: cover; 
+		 -moz-background-size: cover; 
+			 -o-background-size: cover; 
+					background-size: cover;
 }
 header .wrapper {
 	padding-right: 300px;
@@ -93,7 +99,7 @@ header .wrapper {
 /* MASTER LAYOUT */
 #home-main {
 	display:block;
-	margin:20px auto 0;
+	margin:60px auto 0;
 	padding:0px 0;
 	width:100%;
 }
