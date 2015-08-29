@@ -1,3 +1,8 @@
+/*
+ * build.js
+ *
+ */
+
 var config = require('./config'),
     archiver = require('archiver');
     fs = require('fs'),
