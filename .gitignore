@@ -1,5 +1,4 @@
 .DS_store
-_config.yml
 _site/
 config.js
 build.js

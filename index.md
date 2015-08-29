@@ -3,14 +3,6 @@ layout: home
 title: Project Linework
 ---
 
-<div id="intro">
-	<img src="img/pl-logo-full.png">
-	<div id="intro-text">
-		<p>A library of handcrafted vector linework for cartography, each designed in a unique aesthetic style. They are meant to break us away from default line paths that we so often rely on by providing more visually-interesting alternatives.</p>
-		<p><small>Linework sets are available in the following formats: Shapefile, GeoJSON, TopoJSON, and Adobe Illustrator (PDF & Inkscape compatible)</small></p>
-	</div>
-</div>
-
 <div id="home-main">
 	<div class="wrapper">
 		<section id="pl-elmer-casual">
