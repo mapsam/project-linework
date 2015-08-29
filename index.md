@@ -50,7 +50,7 @@ title: Project Linework
 						<p>Geo-Metro is constructed entirely of straight lines and circular arcs, reducing areas to a simple geometry. The arcs won’t be perfect circles upon reprojecting (drawn with a Lambert Conformal Conic, parallels 20N/60N), but they should hold up pretty well under a little distortion. Really brings the shapes of the states and countries to people’s attention. Has a modern (or perhaps futuristic), technical, artificial feel.</p>
 						<p><strong>Author</strong>: Daniel P Huffman</p>
 						<p><strong>Coverage</strong>: North America only.  Coastline | Admin-0 (countries) | Admin-1 (states/provinces) for US, Canada | Large lakes | Major rivers</p>
-						<p><strong>Version</strong>: 1.1</p>
+						<p><strong>Version</strong>: 1.2.1</p>
 					</div>
 				</div>
 			</div>
@@ -130,7 +130,7 @@ title: Project Linework
 						<p>Inspired by the design of board game maps, Wargames is built on a field of hexagons. Besides its fun connotations, it can also be used to give a feeling of mathematical abstraction. Clean and simple, it's great for conveying to your audience the idea of data analysis and generalization.</p>
 						<p><strong>Author</strong>: Daniel P Huffman</p>
 						<p><strong>Coverage</strong>: Worldwide. Coastline | Admin 0 | Admin-1 (AUS BRA CAN CHN COD DEU ESP FRA IND ITA MDG MEX MLI RUS USA ZAF) | Major lakes</p>
-						<p><strong>Version</strong>: 1.0</p>
+						<p><strong>Version</strong>: 1.0.1</p>
 					</div>
 				</div>
 			</div>

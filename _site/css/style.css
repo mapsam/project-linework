@@ -95,6 +95,21 @@ header {
 header .wrapper {
 	padding-right: 300px;
 }
+#intro p {
+	position: relative;
+}
+#intro p small {
+	display: block;
+	padding-left: 30px;
+	white-space: normal;
+}
+#intro .fa {
+	position: absolute;
+	left: 0;
+	top: 3px;
+	color: #111;
+	font-size: 1.2em;
+}
 
 /* MASTER LAYOUT */
 #home-main {
