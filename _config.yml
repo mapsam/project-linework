@@ -18,4 +18,4 @@ url: http://projectlinework.org/
 markdown: rdiscount
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.md]
+exclude: ['README.md', 'node_modules/']
