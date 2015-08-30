@@ -71,10 +71,10 @@ title: Project Linework
 				</div>
 			</div>
 		</section>
-		<section id="pl-moriarity-hand">
+		<section id="pl-moriarty-hand">
 			<div class="info">
 				<div class="title">
-					<h1>Moriarty Hand</h1>
+					<h1><img src="/img/moriarty-hand-label.png"></h1>
 				</div>
 				<div class="guide">
 					<a class="download" href="https://giscollective.s3.amazonaws.com/projectlinework/moriarty-hand.zip">DOWNLOAD</a></strong>
