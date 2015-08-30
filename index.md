@@ -145,7 +145,7 @@ title: Project Linework
 					<div class="description">
 						<p>Based on the iconic background from the 'Weekend Update' segments on Saturday Night Live over the years. This hand drawn, web mercator version styles the Continental United States and European countries with simplified boundaries and colors made popular during the Tina Fey, Amy Pohler, and Jimmy Fallon years.</p>
 						<p><strong>Author</strong>: Jonah Adkins</p>
-						<p><strong>Coverage</strong>: Continental United States, Some European Countries</p>
+						<p><strong>Coverage</strong>: Admin 0 (countries) for Europe (excludes Russia, Asian Turkey, and some smaller nations), and the continental USA | Admin-1 (states) for continental USA</p>
 						<p><strong>Version</strong>: 1.0</p>
 					</div>
 				</div>
