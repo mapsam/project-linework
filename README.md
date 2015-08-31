@@ -1,37 +1,33 @@
 Project Linework
 ================
-This is the page for the Project Linework geo-files. The website can be found on the [gh-pages branch](https://github.com/svmatthews/project-linework/tree/gh-pages) of this repository. Download the current files at [projectlinework.org](http://projectlinework.org/). [Learn more](http://projectlinework.org/about/) about Mr. Huffman's inspiration.
 
-> Project Linework is a library of handcrafted vector linework for cartography, each one designed in a unique aesthetic style. It’s meant to break us away from the default line paths that we so often rely on by providing some more visually-interesting alternatives.
+Project Linework is a library of handcrafted vector linework for cartography, each one designed in a unique aesthetic style. It’s meant to break us away from the default line paths that we so often rely on by providing some more visually-interesting alternatives. Download the current files at [projectlinework.org](http://projectlinework.org/). [Learn more](http://projectlinework.org/about/) about Mr. Huffman's inspiration.
 
-##Linework Sets
+Linework is controlled in the `master` branch. [projectlinework.org](http://projectlinework.org/) is controlled in the `gh-pages` branch.
 
-* Charmingly Innacurate
-* Elmer Casual
-* Geo Metro
-* Liana
-* Times Approximate
-* Twenty Seventy
-* Wargames
+## Linework
 
-##Download Packages
+* Charmingly Innacurate, @pinakographos
+* Elmer Casual, @omnitarian
+* Geo Metro, @pinakographos
+* Liana, Sarah Bennett
+* Moriarty Hand, @dylanmoriarty
+* Times Approximate, @pinakographos
+* Twenty Seventy, @omnitarian
+* Wargames, @pinakographos
+* Weekend Update, @jonahadkins
 
-Linework file types:
+## What's included?
 
-* **Illustrator** CS3 Linework *(projected to best fit extent)*
+* **Illustrator**: projected to best fit extent, PDF & Inkscape compatible
 * **Shapefiles**
 * **GeoJSON**: ogr2ogr .shp to .json
-* **Topojson**: quantization [magnitude of 1e5](http://www.projectlinework.org/2013/10/07/topojson_files/)
-* **Readme** (includes revision history)
+* **Topojson**: quantization [magnitude of 1e5](http://www.projectlinework.org/2013/10/07/topojson_files.html)
 
 Geographic Data (not included in all sets):
 
-* Admin0 Poly/Line
-* Admin1 Poly/Line
-* Streams
-* Lakes
-* Waterbodies
+* Admin0 Poly/Line, Admin1 Poly/Line, Streams, Lakes, Waterbodies
 
-##License
+## License
 
 Released to the public domain. Please credit the author and the project wherever possible.
