@@ -7,15 +7,15 @@ Linework is controlled in the `master` branch. [projectlinework.org](http://proj
 
 ## Linework
 
-* Charmingly Innacurate, @pinakographos
-* Elmer Casual, @omnitarian
-* Geo Metro, @pinakographos
+* Charmingly Innacurate, [@pinakographos](https://github.com/pinakographos)
+* Elmer Casual, [@omnitarian](https://github.com/omnitarian)
+* Geo Metro, [@pinakographos](https://github.com/pinakographos)
 * Liana, Sarah Bennett
-* Moriarty Hand, @dylanmoriarty
-* Times Approximate, @pinakographos
-* Twenty Seventy, @omnitarian
-* Wargames, @pinakographos
-* Weekend Update, @jonahadkins
+* Moriarty Hand, [@dylanmoriarty](https://github.com/dylanmoriarty)
+* Times Approximate, [@pinakographos](https://github.com/pinakographos)
+* Twenty Seventy, [@omnitarian](https://github.com/omnitarian)
+* Wargames, [@pinakographos](https://github.com/pinakographos)
+* Weekend Update, [@jonahadkins](https://github.com/jonahadkins)
 
 ## What's included?
 
