@@ -1,10 +1,21 @@
 /* Webfont Imports */
+@import url(https://fonts.googleapis.com/css?family=Megrim); /* Angular */
 @import url(http://fonts.googleapis.com/css?family=Amatic+SC); /* Elmer Casual */
 @import url(http://fonts.googleapis.com/css?family=Jura:400,500); /* Geo Metro */
 @import url(http://fonts.googleapis.com/css?family=Quintessential); /* Liana */
 @import url(http://fonts.googleapis.com/css?family=Jura:600); /* Twenty Seven */
 @import url(http://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope); /* Charmingly Inaccurate */
 @import url(http://fonts.googleapis.com/css?family=Special+Elite); /* Wargames */
+
+/* MORIARTY HAND */
+#pl-angular {
+	background:url(../img/angular.png) no-repeat;
+	background-position:0px 0px;
+}
+#pl-angular h1 {
+	font-family: 'Megrim', cursive;
+}
+
 
 /* ELMER CASUAL */
 #pl-elmer-casual {
