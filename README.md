@@ -7,6 +7,7 @@ Linework is controlled in the `master` branch. [projectlinework.org](http://proj
 
 ## Linework
 
+* Angular, Dennis McClendon
 * Charmingly Innacurate, [@pinakographos](https://github.com/pinakographos)
 * Elmer Casual, [@omnitarian](https://github.com/omnitarian)
 * Geo Metro, [@pinakographos](https://github.com/pinakographos)
