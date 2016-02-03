@@ -16,7 +16,7 @@ title: Project Linework
 						<p>If you need a simple-looking map, but don't want something smooth and hand-drawn, give Angular a try. Its sharp edges impart a technical, mechanical look of mathematical minimalism. Need an 80s computer style map with green lines on a black background? This is your go-to linework set for retro-techno flare.</p>
 						<p><strong>Author</strong>: Dennis McClendon</p>
 						<p><strong>Coverage</strong>: Admin 1 (states) & Admin 0 (countries) for the lower 48 US states (DC not included), plus southern portions of Canada.</p>
-						<p><strong>Version</strong>: 1.0</p>
+						<p><strong>Version</strong>: 1.1</p>
 					</div>
 				</div>
 			</div>
