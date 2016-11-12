@@ -96,7 +96,7 @@ title: Project Linework
 				<div class="guide">
 					<a class="download" href="https://giscollective.s3.amazonaws.com/projectlinework/moriarty-hand.zip">DOWNLOAD</a></strong>
 					<div class="description">
-						<p>Moriarty Hand is a global, hand drawn set of vector linework covering the world's countries, major rivers and lakes, and US states & Canadian provinces, and is available at two scales. It was created by tracing bits and pieces of Natural Earth linework, then filling in the rest by eyeballing a reference map, which makes it both accurate enough to use and inaccurate enough to look human-made.</p>
+						<p>Moriarty Hand is a global, hand drawn set of vector linework covering the world's countries, major rivers and lakes, and US states & Canadian provinces, and is available at two scales. It was created by tracing bits and pieces of Natural Earth linework, then filling in the rest by eyeballing a reference map, which makes it both accurate enough to use and inaccurate enough to look human-made. This set does not include TopoJSON files.</p>
 						<p><strong>Author</strong>: Dylan Moriarty</p>
 						<p><strong>Coverage</strong>: Worldwide. Coastline | Admin 0 (countries) | Admin-1 (states/provinces) for USA & CAN | Major lakes | Major rivers</p>
 						<p><strong>Version</strong>: 1.1</p>
