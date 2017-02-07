@@ -113,9 +113,9 @@ title: Project Linework
 					<a class="download" href="https://giscollective.s3.amazonaws.com/projectlinework/times-approximate.zip">DOWNLOAD</a></strong>
 					<div class="description">
 						<p>Hand-drawn and pleasantly (but not severely) inaccurate, this set of linework calls back to newspaper maps of the pre-digital era. It’s smooth and casual, but authoritative. Can be used to fight dull neutrality in modern maps, or, with the right graphic techniques, can transport a map back to the previous century. Originally drawn on a Mercator projection; should retain its character well when reprojected into your favorite coordinate system.</p>
-						<p><strong>Editor</strong>: Daniel P Huffman</p>
-						<p><strong>Coverage</strong>: Admin-1 (states/provinces) for the lower 48 United States | Admin 0 (countries) for United States, parts of Mexico and Canada</p>
-						<p><strong>Version</strong>: 1.1</p>
+						<p><strong>Editors</strong>: Daniel P Huffman, Hans van der Maarel</p>
+						<p><strong>Coverage</strong>: Admin-1 (states/provinces) all 50 United States | Admin 0 (countries) for United States, parts of Mexico and Canada</p>
+						<p><strong>Version</strong>: 2.0</p>
 					</div>
 				</div>
 			</div>
@@ -170,4 +170,3 @@ title: Project Linework
 		</section>
 	</div>
 </div>
-
