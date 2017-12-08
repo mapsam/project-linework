@@ -3,13 +3,14 @@
  *
  */
 
-var config = require('./config'),
-    archiver = require('archiver');
-    fs = require('fs'),
-    s3 = require('s3');
+var config = require('./config');
+var archiver = require('archiver');
+var fs = require('fs');
+var s3 = require('s3');
+var readline = require('readline');
+var queue = require('d3-queue').queue;
 
-// sets up the amazon credentials from the
-// config module
+
 var client = s3.createClient({
   maxAsyncS3: 20,
   s3RetryCount: 3,
@@ -22,56 +23,64 @@ var client = s3.createClient({
   },
 });
 
-// read the directory
-fs.readdir('./linework-sets', callback);
+var stats = {};
 
-// callback for finding linework sets files
-function callback(err, data) {
-  // for each file object, create a zip stream
-  for (var i = 0; i < data.length; i++) {
-    (function(object) {
-      var path = './linework-sets/' + object;
-      var name = object;
-      if (fs.lstatSync(path).isDirectory()) {
-        var output = fs.createWriteStream(path + '.zip');
-        var archive = archiver('zip');
-        archive.pipe(output);
+fs.readdir('./linework-sets', function(err, sets) {
+  var q = new queue(1);
 
-        // when the zip stream is finalized, pass the 
-        // object information to the upload function
-        output.on('close', function(){
-          upload(this, object);
-        });
-        archive.on('error', function(err) {
-          throw err;
-        });
-        archive.bulk([
-          { expand: true, cwd: path, src: ['**/*.*'] }
-        ]);
-        archive.finalize();
-      }
-    }(data[i]));
-  }
-}
+  sets.forEach(function(set, i) {
+    stats[set] = { amount: -1, current: -1, line: i };
+    q.defer(upload, set);
+  });
+
+  q.awaitAll(function(err) {
+    if (err) {
+      console.log(err);
+      process.exit(1);
+    }
+    console.log('done!');
+  });
+});
+
+
 
 // runs for each file object, and uploads to s3
-function upload(object, name) {
-  var params = {
-    localFile: object.path,
-    s3Params: {
-      Bucket: 'giscollective',
-      Key: 'projectlinework/' + name + '.zip',
-      ACL: 'public-read'
-    },
-  };
-  var uploader = client.uploadFile(params);
-  uploader.on('error', function(err) {
-    console.error("unable to upload:", err.stack);
-  });
-  uploader.on('progress', function() {
-    console.log("progress", uploader.progressMd5Amount, uploader.progressAmount, uploader.progressTotal);
-  });
-  uploader.on('end', function() {
-    console.log("done uploading");
-  });
+function upload(name, callback) {
+  var path = './linework-sets/' + name;
+  var name = name;
+  if (fs.lstatSync(path).isDirectory()) {
+    var archive = archiver('zip');
+    var output = fs.createWriteStream(path + '.zip');
+    archive.pipe(output);
+
+    output.on('close', function(){
+      var object = this;
+      var params = {
+        localFile: object.path,
+        s3Params: {
+          Bucket: 'giscollective',
+          Key: 'projectlinework/' + name + '.zip',
+          ACL: 'public-read'
+        },
+      };
+      var uploader = client.uploadFile(params);
+      uploader.on('error', callback);
+      uploader.on('progress', function() {
+        readline.clearLine(process.stdout, 0);
+        readline.cursorTo(process.stdout, 0);
+        process.stdout.write(`${name}: ${Math.round(((uploader.progressAmount/uploader.progressTotal)*100)*100)/100}%`);
+      });
+      uploader.on('end', function() {
+        process.stdout.write('\n');
+        return callback(null);
+      });
+    });
+    archive.on('error', function(err) {
+      throw err;
+    });
+    archive.bulk([
+      { expand: true, cwd: path, src: ['**/*.*'] }
+    ]);
+    archive.finalize();
+  }
 }
