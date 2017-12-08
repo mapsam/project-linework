@@ -1,5 +1,6 @@
 .DS_store
-node_modules/
+_site
+node_modules
 config.js
 *.zip
 site/

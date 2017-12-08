@@ -4,7 +4,7 @@
   "description": "Handcrafted vector linework for cartography",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "node scripts/deploy.js"
   },
   "repository": {
     "type": "git",

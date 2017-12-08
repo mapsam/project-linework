@@ -1,0 +1,21 @@
+# Name of your site 
+name: Project Linework
+
+# Short description and will be used in the RSS feed from https://github.com/snaptortoise/jekyll-rss-feeds
+description: Handcrafted Vector Linework for Cartography
+
+# Your name, as you want it to appear underneath each post and in the footer
+author: Sam Matthews
+
+baseurl:
+url: http://projectlinework.org/
+
+#### Under the Hood Stuff #####
+
+# Use rdiscount as the markdown engine because it generates html5 compliant code for stuff like footnotes
+# If you use maroku (default engine) some of your generated pages may not validate or lint as html5
+# If you don't have it install it via gem install rdiscount
+markdown: rdiscount
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: ['README.md', 'node_modules/']

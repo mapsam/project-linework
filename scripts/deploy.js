@@ -25,7 +25,7 @@ var client = s3.createClient({
 
 var stats = {};
 
-fs.readdir('./linework-sets', function(err, sets) {
+fs.readdir('../LINEWORK', function(err, sets) {
   var q = new queue(1);
 
   sets.forEach(function(set, i) {
