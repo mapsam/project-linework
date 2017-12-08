@@ -28,6 +28,7 @@
   "dependencies": {
     "archiver": "^0.14.4",
     "aws-sdk": "^2.1.39",
+    "d3-queue": "^3.0.7",
     "s3": "^4.4.0"
   }
 }
