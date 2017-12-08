@@ -1,6 +1,8 @@
 .DS_store
 _site/
-config.js
-build.js
-node_modules/
+site/
 temp/
+node_modules/
+config.js
+.DS_store
+*.zip
