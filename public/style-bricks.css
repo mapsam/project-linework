@@ -106,4 +106,12 @@
 	opacity: 0.7;
 }
 
-
+/* GEOMOTIONAL */
+#pl-geomotional {
+	background:url(../img/geomotional.jpg) no-repeat;
+	background-position:0px 0px;
+}
+#pl-geomotional h1 {
+	margin-top:-25px;
+	opacity: 0.7;
+}
