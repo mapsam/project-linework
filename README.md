@@ -5,6 +5,7 @@ Project Linework is a library of handcrafted vector linework for cartography, ea
 
 ## Linework
 
+* 1981, [@pinakographos](https://github.com/pinakographos)
 * Angular, Dennis McClendon
 * Charmingly Innacurate, [@pinakographos](https://github.com/pinakographos)
 * Elmer Casual, [@omnitarian](https://github.com/omnitarian)
@@ -25,7 +26,6 @@ Most sets include all of the following:
 * **SVGs**: for web and other vector needs
 * **Shapefiles**: great with QGIS or ArcGIS
 * **GeoJSON**: Add to your webmaps
-* **TopoJSON**: smaller JSON format - quantization [magnitude of 1e5](http://www.projectlinework.org/2013/10/07/topojson_files.html)
 
 Geographic Data (not included in all sets) typically consists of admin0 poly/Line, admin1 poly/Line, streams, lakes, and waterbodies
 
