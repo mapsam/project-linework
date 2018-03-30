@@ -6,8 +6,20 @@
 @import url(http://fonts.googleapis.com/css?family=Jura:600); /* Twenty Seven */
 @import url(http://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope); /* Charmingly Inaccurate */
 @import url(http://fonts.googleapis.com/css?family=Special+Elite); /* Wargames */
+@import url(http://fonts.googleapis.com/css?family=Orbitron); /* 1981 */
 
-/* MORIARTY HAND */
+/* 1981 */
+#pl-1981 {
+	background:url(../img/1981.png) no-repeat;
+	background-position:0px 0px;
+}
+#pl-1981 h1 {
+	font-family: 'Orbitron';
+}
+
+
+
+/* ANGULAR */
 #pl-angular {
 	background:url(../img/angular.png) no-repeat;
 	background-position:0px 0px;
