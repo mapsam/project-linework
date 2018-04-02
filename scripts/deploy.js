@@ -25,7 +25,8 @@ var client = s3.createClient({
 
 var stats = {};
 
-fs.readdir('../LINEWORK', function(err, sets) {
+fs.readdir(__dirname + '/../LINEWORK', function(err, sets) {
+  if (err) throw err;
   var q = new queue(1);
 
   sets.forEach(function(set, i) {
@@ -46,7 +47,7 @@ fs.readdir('../LINEWORK', function(err, sets) {
 
 // runs for each file object, and uploads to s3
 function upload(name, callback) {
-  var path = './linework-sets/' + name;
+  var path = './LINEWORK/' + name;
   var name = name;
   if (fs.lstatSync(path).isDirectory()) {
     var archive = archiver('zip');
