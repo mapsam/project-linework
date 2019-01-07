@@ -11,3 +11,8 @@ REVISION HISTORY
 Version 1.0 — 03/30/2018
 -----------------------
 Initial release
+
+
+Version 1.1 - 01/07/2019
+————————————
+Added Ukraine, which was mistakenly excluded from 1.0
